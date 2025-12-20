@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inércia Demoscene on Inércia 2026</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Inércia Demoscene on Inércia 2026</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Digital Arts Festival in Portugal</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>Get in touch with us</description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/en/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/location/</guid>
+      <description>Salão de Festas da Sociedade Filarmónica Incrível Almadense, in the heart of Almada, just across the river from Lisbon</description>
+    </item>
+    <item>
+      <title>Merch &amp; Goodies</title>
+      <link>http://localhost:1313/en/merch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/merch/</guid>
+      <description>Things to remember us by</description>
+    </item>
+    <item>
+      <title>Participate</title>
+      <link>http://localhost:1313/en/participate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/participate/</guid>
+      <description>Veteran? Newcomer?! Show us what you&amp;rsquo;ve been working on!</description>
+    </item>
+    <item>
+      <title>Post Party</title>
+      <link>http://localhost:1313/en/postparty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/postparty/</guid>
+      <description>Post-party links and resources for Inércia 2025</description>
+    </item>
+    <item>
+      <title>Retrocorner</title>
+      <link>http://localhost:1313/en/retrocorner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/retrocorner/</guid>
+      <description>A window into the past</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/en/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/schedule/</guid>
+      <description>6-7 December 2025</description>
+    </item>
+    <item>
+      <title>Shader Royale</title>
+      <link>http://localhost:1313/en/shader_royale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/shader_royale/</guid>
+      <description>Join the largest simultaneous shader livecoding event in the world</description>
+    </item>
+    <item>
+      <title>Visiting</title>
+      <link>http://localhost:1313/en/visiting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/visiting/</guid>
+      <description>Let us know you are coming</description>
+    </item>
+  </channel>
+</rss>

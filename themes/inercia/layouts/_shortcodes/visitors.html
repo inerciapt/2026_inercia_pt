@@ -1,0 +1,7 @@
+<div class="tabbed">
+	<ul class="visitors">
+	{{ range $names := .Site.Data.visitors }}
+			<li><img class="icon" src="/flags/{{ .flag }}.svg" alt="{{ .flag }} flag"> {{ .name }} </li>
+	{{ end }}
+	</ul>
+</div>

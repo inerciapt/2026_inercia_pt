@@ -1,0 +1,72 @@
+# ---------------------- Gold 
+- name: "Incrível Almadense"
+  tier: "gold"
+  url: "https://incrivelalmadense.pt"
+  logo: "images/svg/incrivel.svg"
+
+- name: "Câmara de Almada"
+  tier: "gold"
+  url: "https://cm-almada.pt"
+  logo: "images/svg/cmalmada_2.svg"
+
+- name: "Juntas"
+  tier: "gold"
+  url: "https://www.uf-acppc.pt/"
+  logo: "images/svg/junta.svg"
+
+- name: "Amplify Creations"
+  tier: "gold"
+  url: "https://amplify.pt/"
+  logo: "images/svg/amplify.svg"
+
+# ---------------------- Silver
+- name: "Mr. Print"
+  tier: "silver"
+  url: "https://mrprint.pt/"
+  logo: "images/svg/mrprint.svg"
+
+- name: "Bar A Cerca"
+  tier: "silver"
+  url: "https://linktr.ee/baracerca"
+  logo: "images/svg/baracerca.svg"
+
+- name: "Realiza Som"
+  tier: "silver"
+  url: "https://realizasom.com/"
+  logo: "images/svg/realiza_som.svg"
+
+- name: "Arte & Impacto"
+  tier: "silver"
+  url: "https://www.arteeimpacto.com/"
+  logo: "images/svg/arteeimpacto.svg"
+
+- name: "SceneSat"
+  tier: "silver"
+  url: "https://scenesat.com/"
+  logo: "images/svg/scenesat.svg"
+
+# ---------------------- Bronze
+- name: "Pombal Ceramics"
+  tier: "bronze"
+  url: "https://joaquimpombal.blogspot.com/"
+  logo: "images/svg/pombalceramics.svg"
+
+- name: "Assoc Hic Et Nunc"
+  tier: "bronze"
+  url: "https://www.instagram.com/assohicetnunc/"
+  logo: "images/svg/assohicetnunc.svg"
+
+- name: "Enough Records"
+  tier: "bronze"
+  url: "https://enoughrecords.scene.org/"
+  logo: "images/svg/enough.svg"
+
+- name: "Museum Load ZX Spectrum"
+  tier: "bronze"
+  url: "https://loadzx.com/"
+  logo: "images/svg/load_zx_spectrum.svg"
+
+- name: "Gaming Hub"
+  tier: "bronze"
+  url: "https://www.uflgaminghub.com/"
+  logo: "images/svg/gaminghub.svg"

@@ -1,0 +1,108 @@
+baseURL = 'https://2026.inercia.pt/'
+languageCode = 'pt-PT'
+title = 'Inércia 2026'
+theme = 'inercia'
+
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = true
+
+[params]
+  description = "Inércia 2026 - Digital Arts Festival in Portugal"
+  social_image = "/images/inercia2026_promo.png"
+  twitter = "inercia_pt"
+  favicon = "/images/ID_64px.png"
+  logo = "/images/svg/iD_grey_flat.svg"
+  logo_small = "/images/svg/iD_grey_flat.svg"
+
+  # Place Youtube partial like here (stuff after ?v=)
+  youlinktube = "tTy-JzxkJ9s"
+  scenelinksat = "video/5"
+
+  # Change to show Partyman button on navbar
+  acceptingsubmissions = false
+
+  # Change this mofo to true Saturday morning
+  wearelive = false
+
+  # PostParty button thing
+  postparty = false
+
+[languages]
+  [languages.pt]
+    languageName = 'Português'
+    weight = 1
+    title = 'Inércia 2026'
+    languageCode = 'pt-PT'
+    contentDir = 'content/pt'
+    params.description = "Inércia 2026 - Festival de Artes Digitais em Portugal"
+#    [[languages.pt.menu.main]]
+#      name = "Post Party"
+#      url = "/pt/postparty/"
+#      weight = 10
+    [[languages.pt.menu.main]]
+      name = "Sobre"
+      url = "/pt/about/"
+      weight = 20
+    [[languages.pt.menu.main]]
+      name = "Localização"
+      url = "/pt/location/"
+      weight = 30
+    [[languages.pt.menu.main]]
+      name = "Participar"
+      url = "/pt/participate/"
+      weight = 40
+#    [[languages.pt.menu.main]]
+#      name = "Programa"
+#      url = "/pt/schedule/"
+#      weight = 50
+#    [[languages.pt.menu.main]]
+#      name = "Retrocorner"
+#      url = "/retrocorner/"
+#      weight = 60
+    [[languages.pt.menu.main]]
+      name = "Visitar"
+      url = "/pt/visiting/"
+      weight = 70
+#    [[languages.pt.menu.main]]
+#      name = "Contacto"
+#      url = "/pt/contact/"
+#      weight = 80
+  [languages.en]
+    languageName = 'English'
+    weight = 2
+    title = 'Inércia 2026'
+    languageCode = 'en-GB'
+    contentDir = 'content/en'
+    params.description = "Inércia 2026 - Digital Arts Festival in Portugal"
+#    [[languages.en.menu.main]]
+#      name = "Post Party"
+#      url = "/en/postparty/"
+#      weight = 10
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 20
+    [[languages.en.menu.main]]
+      name = "Location"
+      url = "/en/location/"
+      weight = 30
+    [[languages.en.menu.main]]
+      name = "Participate"
+      url = "/en/participate/"
+      weight = 40
+#    [[languages.en.menu.main]]
+#      name = "Schedule"
+#      url = "/en/schedule/"
+#      weight = 50
+#    [[languages.en.menu.main]]
+#      name = "Retrocorner"
+#      url = "/retrocorner/"
+#      weight = 60
+    [[languages.en.menu.main]]
+      name = "Visiting"
+      url = "/en/visiting/"
+      weight = 70
+#    [[languages.en.menu.main]]
+#      name = "Contact"
+#      url = "/en/contact/"
+#      weight = 80
