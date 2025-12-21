@@ -3,9 +3,9 @@ title: "Sobre"
 summary: "Festival de Arte Digital e Música em Portugal"
 ---
 >
-O festival da Inércia é organizado pela [Associação Inércia](https://inercia.pt), uma associação sem fins lucrativos dedicada à promoção da demoscene. A edição de 2025 será a 17ª do evento organizada pelos membros da Associação e a 5ª a ser realizada em Almada em particular.
+O festival da Inércia é organizado pela [Associação Inércia](https://inercia.pt), uma associação sem fins lucrativos dedicada à promoção da demoscene. A edição de 2026 será a 18ª do evento organizada pelos membros da Associação e a 6ª a ser realizada em Almada em particular.
 
-A Inércia 2025 terá lugar 6 e 7 de Dezembro de 2025 no Salão de Festas da Incrível Almadense, uma sala centenária no coração de Almada, do outro lado do rio de Lisboa.
+A Inércia 2026 terá lugar ??? no Salão de Festas da Incrível Almadense, uma sala centenária no coração de Almada, do outro lado do rio de Lisboa.
 
 Este salão mítico oferece-nos espaço para até 150 visitantes (incluindo lugares dedicados em mesas com assentos confortáveis para até 50 pessoas). O evento decorre de sábado a domingo, durante o qual haverá muitas oportunidades para apresentares o teu trabalho e conviver com outros artistas, demosceners e criadores.
 
@@ -41,11 +41,11 @@ A organização reserva o direito de excluir do evento qualquer pessoa que possa
 
 ## Pacote de Imprensa
 
-Temos um pacote de imprensa [disponivel para download](/Inercia2025PressPack.zip).
+Temos um pacote de imprensa [disponivel para download](/Inercia2026PressPack.zip).
 
 ## Contacto Geral
 
-Qualquer dúvida ou questão sobre a Inércia 2025 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)
+Qualquer dúvida ou questão sobre a Inércia 2026 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202026)
 
 Também estamos ativos no [canal de discord da demoscene portuguesa](https://discord.gg/a44cmgbQFh)
 
@@ -57,10 +57,10 @@ Podes encontrar os conteúdos disponíveis das edições anteriores do evento at
 
 ## Créditos Adicionais
 
-A Inércia 2025 é organizada através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
+A Inércia 2026 é organizada através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
 
 O design gráfico desta página web foi emprestado e alterado com permissão a partir de [NOVA demoparty](https://novaparty.org/).
 
-Adaptada e expandida em 2025 como um tema [Hugo](https://gohugo.io).
+Adaptada e expandida em 2026 como um tema [Hugo](https://gohugo.io).
 
 O sistema de gestão das participações no evento que utilizamos é o [Partyman](https://www.partyman.cloud).

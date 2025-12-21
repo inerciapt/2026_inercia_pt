@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = true
   logo_small = "/images/svg/iD_grey_flat.svg"
 
   # Place Youtube partial like here (stuff after ?v=)
-  youlinktube = "tTy-JzxkJ9s"
+  youlinktube = "dQw4w9WgXcQ"
   scenelinksat = "video/5"
 
   # Change to show Partyman button on navbar
@@ -43,14 +43,14 @@ defaultContentLanguageInSubdir = true
       name = "Sobre"
       url = "/pt/about/"
       weight = 20
-    [[languages.pt.menu.main]]
-      name = "Localização"
-      url = "/pt/location/"
-      weight = 30
-    [[languages.pt.menu.main]]
-      name = "Participar"
-      url = "/pt/participate/"
-      weight = 40
+#    [[languages.pt.menu.main]]
+#      name = "Localização"
+#      url = "/pt/location/"
+#      weight = 30
+#    [[languages.pt.menu.main]]
+#      name = "Participar"
+#      url = "/pt/participate/"
+#      weight = 40
 #    [[languages.pt.menu.main]]
 #      name = "Programa"
 #      url = "/pt/schedule/"
@@ -59,10 +59,10 @@ defaultContentLanguageInSubdir = true
 #      name = "Retrocorner"
 #      url = "/retrocorner/"
 #      weight = 60
-    [[languages.pt.menu.main]]
-      name = "Visitar"
-      url = "/pt/visiting/"
-      weight = 70
+#    [[languages.pt.menu.main]]
+#      name = "Visitar"
+#      url = "/pt/visiting/"
+#      weight = 70
 #    [[languages.pt.menu.main]]
 #      name = "Contacto"
 #      url = "/pt/contact/"
@@ -82,14 +82,14 @@ defaultContentLanguageInSubdir = true
       name = "About"
       url = "/en/about/"
       weight = 20
-    [[languages.en.menu.main]]
-      name = "Location"
-      url = "/en/location/"
-      weight = 30
-    [[languages.en.menu.main]]
-      name = "Participate"
-      url = "/en/participate/"
-      weight = 40
+#    [[languages.en.menu.main]]
+#      name = "Location"
+#      url = "/en/location/"
+#      weight = 30
+#    [[languages.en.menu.main]]
+#      name = "Participate"
+#      url = "/en/participate/"
+#      weight = 40
 #    [[languages.en.menu.main]]
 #      name = "Schedule"
 #      url = "/en/schedule/"
@@ -98,10 +98,10 @@ defaultContentLanguageInSubdir = true
 #      name = "Retrocorner"
 #      url = "/retrocorner/"
 #      weight = 60
-    [[languages.en.menu.main]]
-      name = "Visiting"
-      url = "/en/visiting/"
-      weight = 70
+#    [[languages.en.menu.main]]
+#      name = "Visiting"
+#      url = "/en/visiting/"
+#      weight = 70
 #    [[languages.en.menu.main]]
 #      name = "Contact"
 #      url = "/en/contact/"
