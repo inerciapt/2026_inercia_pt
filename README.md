@@ -1,8 +1,8 @@
-# Inercia 2025 Website
+# Inercia 2026 Website
 
 ![Demoparty Logo](static/images/svg/inercia_associacao.svg)
 
-Welcome to the official repository for the **Inercia 2025 Website**! This website is designed to showcase all information and updates related to the upcoming demoparty event. Whether you're a participant, organizer, or attendee, this site will provide everything you need to know.
+Welcome to the official repository for the **Inercia 2026 Website**! This website is designed to showcase all information and updates related to the upcoming demoparty event. Whether you're a participant, organizer, or attendee, this site will provide everything you need to know.
 
 ## Features
 
@@ -26,8 +26,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/inerciapt/2025_inercia_pt
-   cd 2025_inercia_pt
+   git clone https://github.com/inerciapt/2026_inercia_pt
+   cd 2026_inercia_pt
    ```
 
 2. Install dependencies:
