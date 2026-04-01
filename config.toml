@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = true
   scenelinksat = "video/5"
 
   # Change to show Partyman button on navbar
-  acceptingsubmissions = false
+  acceptingsubmissions = true
 
   # Change this mofo to true Saturday morning
   wearelive = false
