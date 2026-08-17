@@ -1,3 +1,9 @@
 .DS_Store
 public
 .hugo_build.lock
+AGENTS.md
+.node_modules
+.bun
+.npm
+.cache
+.config
