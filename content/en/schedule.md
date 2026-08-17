@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-summary: "6-7 December 2025"
+summary: "6-7 December 2026"
 
 #
 # Notes for anyone editing:
@@ -23,7 +23,7 @@ summary: "6-7 December 2025"
 **Fast Compo Theme REVEAL**
 |:-:|:-:|:-|
 | 13:37 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="See Fast Compo details" >}}
-For 2025 the Fast Competition will be 'babanas and potatoes'
+For 2026 the Fast Competition will be 'babanas and potatoes'
 multiline shenanigans
 
 You can [download assets here](https://drive.google.com/somethingsomethingfails)
@@ -32,13 +32,13 @@ does this even work?
 {{< /details >}}| 
 -->
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-05" >}}Friday · December 5{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-05" >}}Friday · December 5{{< /jtzr-anchor-date >}}
 
 **Preparty @ Bar A Cerca**
 |:-:|:-:|:-|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | rc55 + friends | 
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-06" >}}Saturday · December 6{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-06" >}}Saturday · December 6{{< /jtzr-anchor-date >}}
 
 | | | |
 |:-:|:-:|:-|
@@ -65,7 +65,7 @@ Bacter will serve us with some nice and smooth Disco licks and synthwave bangers
 | {{< jtzr-time >}}02:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Varrho |
 
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-07" >}}Sunday · December 7{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-07" >}}Sunday · December 7{{< /jtzr-anchor-date >}}
 
 | | | |
 |:-:|:-:|:-|
@@ -92,7 +92,7 @@ WAKE is a live audiovisual project from Berlin. Lena Kilkka [/lucid/](https://ww
 Tina Stormcaller is an independent radio DJ from the UK's South Coast, bringing you a deep and tech house mix to get you into the groove.
 {{< /details >}}| 
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-08" >}}Monday · December 8 (national holiday){{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-08" >}}Monday · December 8 (national holiday){{< /jtzr-anchor-date >}}
 
 ||||
 |:-:|:-:|:-|

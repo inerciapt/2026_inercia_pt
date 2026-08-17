@@ -3,13 +3,13 @@ title: "About"
 summary: "Digital Arts Festival in Portugal"
 ---
 >
-Inércia is organized by [Associação Inércia](https://inercia.pt), a non profit organization dedicated to promoting the demoscene. 2026 will be the 18th edition of Inércia we organize and the sixth taking place in Almada.
+Inércia is organized by [Associação Inércia](https://inercia.pt), a non profit organization dedicated to promoting the demoscene. 2026 will be the 19th edition of Inércia we organize and the sixth taking place in Almada.
 
-Inércia 2026 will take place ??? 2026 at Salão Festas Incrível Almadense, the centenary event hall in the heart of Almada, just across the river from Lisbon.
+Inércia 2026 will take place 4 to 6 December 2026 at Salão Festas Incrível Almadense, the centenary event hall in the heart of Almada, just across the river from Lisbon.
 
 This mythical hall provides us with room for up to 150 visitors (including dedicated table spots with comfortable seating for up to 50 people). The event runs from Friday afternoon until Sunday morning, during which there will be plenty of opportunity to present your work and socialize with other artists, demosceners and hardware tinkerers.
 
-## Invitation video of Inércia 2025:
+## Invitation video of Inércia 2026:
 
 {{< youtube kRxPyPyCyxE >}}
 

@@ -1,6 +1,6 @@
 ---
 title: "Programa"
-summary: "6-7 de Dezembro 2025"
+summary: "6-7 de Dezembro 2026"
 
 #
 # Notes for anyone editing:
@@ -23,7 +23,7 @@ summary: "6-7 de Dezembro 2025"
 |**Fast Compo Theme**|||
 |:-:|:-:|:-|
 | 13:37 | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Veja os detalhes da competição rápida" >}}
-For 2025 the Fast Competition will be 'babanas and potatoes'
+For 2026 the Fast Competition will be 'babanas and potatoes'
 multiline shenanigans
 
 You can [download assets here](https://drive.google.com/somethingsomethingfails)
@@ -32,13 +32,13 @@ does this even work?
 {{< /details >}}| 
 -->
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-05" >}}Sexta · 5 de Dezembro{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-05" >}}Sexta · 5 de Dezembro{{< /jtzr-anchor-date >}}
 
 **Preparty @ Bar A Cerca**
 |:-:|:-:|:-|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | rc55| 
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-06" >}}Sábado · 6 de Dezembro{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-06" >}}Sábado · 6 de Dezembro{{< /jtzr-anchor-date >}}
 
 | | | |
 |:-:|:-:|:-|
@@ -63,7 +63,7 @@ Through the evening for you to enjoy sweet (and sour) cocktails and beer.
 {{< /details >}}| 
 | {{< jtzr-time >}}02:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Varrho |
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-07" >}}Domingo · 7 de Dezembro{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-07" >}}Domingo · 7 de Dezembro{{< /jtzr-anchor-date >}}
 
 | | | |
 |:-:|:-:|:-|
@@ -90,7 +90,7 @@ WAKE é um projecto audiovisual ao vivo de Berlin. Lena Kilkka [/lucid/](https:/
 Tina Stormcaller é uma DJ de radio independente da costa sul do reino unido, traz-nos aqui uma mistura de deep e tech house.
 {{< /details >}}| 
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-08" >}}Segunda · Dezembro 8 (feriado nacional){{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-08" >}}Segunda · Dezembro 8 (feriado nacional){{< /jtzr-anchor-date >}}
 
 ||||
 |:-:|:-:|:-|

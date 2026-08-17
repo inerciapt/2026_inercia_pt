@@ -5,7 +5,7 @@ summary: "Fala connosco"
 
 ## Contacto Geral
 
-Qualquer dúvida ou questão sobre a Inércia 2025 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)
+Qualquer dúvida ou questão sobre a Inércia 2026 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202026)
 
 Também estamos ativos no [canal de discord da demoscene portuguesa](https://discord.gg/a44cmgbQFh)
 
@@ -17,10 +17,10 @@ Podes encontrar os conteúdos disponíveis das edições anteriores do evento at
 
 ## Créditos Adicionais
 
-A Inércia 2025 é organizada através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
+A Inércia 2026 é organizada através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
 
 O design gráfico desta página web foi emprestado e alterado com permissão a partir de [NOVA demoparty](https://novaparty.org/).
 
-Adaptada e expandida em 2025 como um tema [Hugo](https://gohugo.io).
+Adaptada e expandida em 2026 como um tema [Hugo](https://gohugo.io).
 
 O sistema de gestão das participações no evento que utilizamos é o [Partyman](https://www.partyman.cloud).

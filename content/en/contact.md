@@ -5,7 +5,7 @@ summary: "Get in touch with us"
 
 ## General contact
 
-For any questions and enquiries regarding the festival you can reach us [through email](mailto:info@inercia.pt&subject=Inércia%202025).
+For any questions and enquiries regarding the festival you can reach us [through email](mailto:info@inercia.pt&subject=Inércia%202026).
 
 We are also active on the [portuguese scene discord](https://discord.gg/a44cmgbQFh).
 
@@ -17,11 +17,11 @@ Check complete releases and results from our previous editions at [Demozoo](http
 
 ## Additional Credits
 
-Inércia 2025 is organized by Associação Inércia with the help of a dozen volunteers and partners.
+Inércia 2026 is organized by Associação Inércia with the help of a dozen volunteers and partners.
 
 The design of this website was originally taken from [NOVA demoparty](https://novaparty.org/) organizing team with permission and adapted. 
 
-Further adapted in 2025 as a [Hugo](https://gohugo.io) theme.
+Further adapted in 2026 as a [Hugo](https://gohugo.io) theme.
 
 The productions submission system we use for the event is [Partyman](https://www.partyman.cloud).
 

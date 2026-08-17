@@ -44,7 +44,7 @@ The organization reserves the right to not screen your submission for any reason
 
 ## Combined Demo Competition
 
-Our main event is the Combined Demo Competition. A competition for executable realtime entries, running on any computer platform, as long as they were made exclusively for Inércia 2025.
+Our main event is the Combined Demo Competition. A competition for executable realtime entries, running on any computer platform, as long as they were made exclusively for Inércia 2026.
 If you are not sure what we mean by demo, you might want to [read about the demoscene](https://en.wikipedia.org/wiki/Demoscene) first.
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: the working binaries of the executable and a short text file explaining what it is, the target platform, the techniques and references used, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
@@ -60,7 +60,7 @@ The winner will be determined by public voting.
 
 ## Size Coding Showcase
 
-We will have a screening block dedicated to any <a href="http://www.sizecoding.org/wiki/Main_Page">size coding</a> / bootblock productions made exclusively for Inércia 2025! We are looking for submissions running on any platforms under specific size constraints, it must not have been previously released. The most common target size restrictions are usually 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb and 64kb.
+We will have a screening block dedicated to any [size coding](http://www.sizecoding.org/wiki/Main_Page) / bootblock productions made exclusively for Inércia 2026! We are looking for submissions running on any platforms under specific size constraints, it must not have been previously released. The most common target size restrictions are usually 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb and 64kb.
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
 
@@ -75,7 +75,7 @@ Some leeway on this rule to also allow collaborations but please don't abuse it.
 
 ## Graphics Showcase
 
-We will have a screening block dedicated to graphics productions made exclusively for Inércia 2025. We are looking for submissions of the following kind:
+We will have a screening block dedicated to graphics productions made exclusively for Inércia 2026. We are looking for submissions of the following kind:
 
  * Text art, be it ASCII, ANSI, PETSCII, ATASCII, TELETEXT, etc
  * Pixel art, limited palette and canvas resolution, using standards from retro machines or fantasy consoles
@@ -103,7 +103,7 @@ Some leeway on this rule to also allow collaborations but please don't abuse it.
 
 ## Music Showcase
 
-We will have a screening block dedicated to music produced explicitely to be premiered at Inércia 2025!
+We will have a screening block dedicated to music produced explicitely to be premiered at Inércia 2026!
 We will play a maximum of 5 minutes of each track submitted. We are looking for submissions of the following kind:
 
  * Tracked music, composed using tracker software, for whatever target platform you use

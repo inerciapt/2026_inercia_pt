@@ -43,7 +43,7 @@ A organização reserva o direito de poder não selecionar o teu trabalho, por q
 
 ## Competição de Demos
 
-O evento principal da Inércia 2025 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
+O evento principal da Inércia 2026 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
 Uma competição para produções executáveis que correm em tempo real, para qualquer plataforma computacional, desde que tenham sido feitas exclusivamente para ser mostradas nesta edição da Inércia.
 
 📤 Carrega [um arquivo zip](https://inercia.partyman.cloud) com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição do conteúdo, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum, ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
@@ -90,7 +90,7 @@ O vencedor será determinado por votação do público.
 --->
 ## Mostra de Size Coding
 
-Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http://www.sizecoding.org/wiki/Main_Page) e bootblocks, criadas exclusivamente para a Inércia 2025! Estamos à procura de participações para qualquer plataforma, cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
+Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http://www.sizecoding.org/wiki/Main_Page) e bootblocks, criadas exclusivamente para a Inércia 2026! Estamos à procura de participações para qualquer plataforma, cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
 
 📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
@@ -105,7 +105,7 @@ Esta regra tem alguma flexibilidade para facilitar colaborações mas não é pa
 
 ## Mostra de Gráficos
 
-Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2025. Estamos à procura de obras dos seguintes tipos:
+Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2026. Estamos à procura de obras dos seguintes tipos:
 
  * Arte com texto, usando ASCII, ANSI, PETSCII, ATASCII, TELETEXT, etc
  * Pixel art, palette e resolução de canvas limitados, usando standards de máquinas retro ou fantasy consoles

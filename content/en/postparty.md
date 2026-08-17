@@ -1,6 +1,6 @@
 ---
 title: "Post Party"
-summary: "Post-party links and resources for Inércia 2025"
+summary: "Post-party links and resources for Inércia 2026"
 ---
 
 ## Thank you!

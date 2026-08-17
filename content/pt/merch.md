@@ -31,7 +31,7 @@ E para proteger do frio, os vencedores da competição de Demos levarão para ca
 
 Gostas do nosso logótipo? Vais adorar as nossas t-shirts! O design é do [harvest](https://demozoo.org/sceners/127889/) e são impressas em tecido de alta qualidade. Temos t-shirts em todos os tamanhos, disponíveis durante o evento na infodesk em troca de um donativo.
 
-E boas notícias: se és membro da [Associação Inércia](https://inercia.pt) com as quotas em dia, recebes uma de graça se te registares na Inércia 2025 antes de 2 de Dezembro! Pede-a no infodesk. Também temos alguns tamanhos disponíveis com os designs das edições de 2023 e 2024.
+E boas notícias: se és membro da [Associação Inércia](https://inercia.pt) com as quotas em dia, recebes uma de graça se te registares na Inércia 2026 antes de 2 de Dezembro! Pede-a no infodesk. Também temos alguns tamanhos disponíveis com os designs das edições de 2023 e 2024.
 
 ---
 

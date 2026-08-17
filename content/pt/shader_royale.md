@@ -18,7 +18,7 @@ Para os utilizadores MacOS e Linux: Infelizmente não há um build oficial para 
 
 ### Instalar Texturas Extra
 
-Um pacote com texturas extra para esta sessão está disponivel em [Inercia2025Textures.zip](/Inercia2025Textures.zip).
+Um pacote com texturas extra para esta sessão está disponivel em [Inercia2026Textures.zip](/Inercia2026Textures.zip).
 
 Copia os conteúdos da directoria `textures` para a directoria do mesmo nome do Bonzomatic. Deverá parecer algo como:
 ```
@@ -28,7 +28,7 @@ Copia os conteúdos da directoria `textures` para a directoria do mesmo nome do 
                 noise.png
                 tex1.jpg
                 [...]
-                Inercia2025.png
+                Inercia2026.png
                 InerciaID.png
                 InerciaBW.png
 ```
@@ -43,14 +43,14 @@ Dentro da directoria do Bonzomatic actualiza o `config.json` para adicionar as r
               "texTex2": "textures/tex2.jpg",
               "texTex3": "textures/tex3.jpg",
               "texTex4": "textures/tex4.jpg",
-              "texInercia2025": "textures/Inercia2025.png",
+              "texInercia2026": "textures/Inercia2026.png",
               "texInerciaID": "textures/InerciaID.png",
               "texInerciaBW": "textures/InerciaBW.png"
             },
             [...]
 ```
 
-Apaga ou renomeia o ficheiro `shader.glsl` se ele existir na tua directoria do Bonzomatic e executa o programa. Deverás ter umas novas referências uniform de texturas listadas no topo: `texInercia2025`, `texInerciaID` e `texInerciaBW`.
+Apaga ou renomeia o ficheiro `shader.glsl` se ele existir na tua directoria do Bonzomatic e executa o programa. Deverás ter umas novas referências uniform de texturas listadas no topo: `texInercia2026`, `texInerciaID` e `texInerciaBW`.
 
 Podes utilizar o código exemplo de `testTexture.glsl` para validar que as texturas estão a funcionar. O código também inclui uma função getTexture que redimensiona a textura para o aspect ratio correcto e invert o eixo dos Y.
 
@@ -68,11 +68,11 @@ Executa Bonzomatic.exe, a janela deverá abrir a pedir configurações. No paine
 
 * estás em modo SENDER
 * Server: ws://drone.alkama.com:9000
-* Room: inercia2025
+* Room: inercia2026
 * Nickname: {your nickname}
 * Clica no Run
 
-Se estás em MacOs ou Linux tens de actualizar o config.json para alterar o parâmetro serverUrl para: `ws://drone.alkama.com:9000/inercia2025/{yourhandle}`
+Se estás em MacOs ou Linux tens de actualizar o config.json para alterar o parâmetro serverUrl para: `ws://drone.alkama.com:9000/inercia2026/{yourhandle}`
 
 Quando a janela de código do Bonzomatic abre verifica se tens ou não um bloco vermelho ao lado do teu nome, ter o bloco vermelho indica problemas de ligação ao servidor.
 
