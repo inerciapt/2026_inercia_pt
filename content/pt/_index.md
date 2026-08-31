@@ -8,6 +8,8 @@ sections:
   - overline: "Tema"
     title: "Tudo será revelado"
     content: |
-      A edição de 2026 da Inércia terá um novo tema que será revelado a seu tempo
+      A edição de 2026 terá lugar de 4 a 6 de Dezembro no Salão de Festas da Incrível Almadense
+      
+      O tema para este ano será revelado a seu tempo
 
 ---
