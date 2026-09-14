@@ -29,7 +29,7 @@ Seguindo os desenvolvimentos da tecnologia recente dos modelos de inteligência 
 * Sistema Operativo : Windows 11 (com as mais recentes atualizações)
 * CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
 * RAM : 2x 32GB DDR4-3200
-* GFX : ~~RTX3060Ti 8GB GDDR6X~~ RTX 4080 16GB
+* GFX : RTX 4080 16GB
 
 Se a tua produção correr noutra plataforma, por favor fornece-nos também uma gravação vídeo da mesma a executar. Se tal não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir a melhor maneira de captarmos o video com qualidade aceitável.
 
@@ -51,7 +51,7 @@ Uma competição para produções executáveis que correm em tempo real, para qu
 O vencedor será determinado por votação do público.
 
 {{< threeimages
-    img1="/images/this_is_internet.webp" alt1="Screenshot of This Is Internet, a demo by teadrinker" caption1="'This Is Internet' by teadrinker (2023)"
+    img1="/images/5c72.354184.png" alt1="Screenshot of PRINT, a demo by teadrinker" caption1="'This Is Internet' by teadrinker (2024)"
     img2="/images/tokidoki.webp" alt2="Screenshot of Tokidoki, a demo by Gaia Space Agency" caption2="'Tokidoki' by Gaia Space Agency (2022)"
     img3="/images/bossa_de_cores.webp" alt3="Screenshot of Bossa de Cores, a demo by 5711 & Accession & Farbrausch" caption3="'Bossa de Cores' by 5711 & Accession & Farbrausch (2020)"
 >}}

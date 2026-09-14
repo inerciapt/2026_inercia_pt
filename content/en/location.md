@@ -7,7 +7,7 @@ Taking place at this mythical location, in the heart of Almada, with room for ov
 
 We will have the hall equipped with tables, chairs, lighting, Full HD projection and a suitably large sound system for the party. There is also a bar, catering facilities, sleeping area and backstage area.
 
-{{< singleimage img="/images/_DSC2349.webp" caption="Salão de Festas Incrível Almadense - Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
+{{< singleimage img="/images/venue.jpg" caption="Salão de Festas Incrível Almadense - Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
 
 
 ## About Almada

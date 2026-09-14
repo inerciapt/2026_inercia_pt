@@ -30,7 +30,7 @@ Everyone who enjoys exploring genAI technology in all of it's emerging fields ca
 * OS : Windows 11 (with all latest security updates)
 * CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
 * RAM : 2x 32GB DDR4-3200
-* GFX : ~~RTX3060Ti 8GB GDDR6X~~ RTX 4080 16GB
+* GFX : RTX 4080 16GB
 
 If your production targets another platform, please also provide a video recording of it, if you can't do so please come talk with us as soon as possible so we can try to figure out how to capture its signal with acceptable quality.
 
@@ -52,7 +52,7 @@ If you are not sure what we mean by demo, you might want to [read about the demo
 The winner will be determined by public voting.
 
 {{< threeimages
-    img1="/images/this_is_internet.webp" alt1="Screenshot of This Is Internet, a demo by teadrinker" caption1="'This Is Internet' by teadrinker (2023)"
+    img1="/images/5c72.354184.png" alt1="Screenshot of PRINT, a demo by teadrinker" caption1="'This Is Internet' by teadrinker (2024)"
     img2="/images/tokidoki.webp" alt2="Screenshot of Tokidoki, a demo by Gaia Space Agency" caption2="'Tokidoki' by Gaia Space Agency (2022)"
     img3="/images/bossa_de_cores.webp" alt3="Screenshot of Bossa de Cores, a demo by 5711 & Accession & Farbrausch" caption3="'Bossa de Cores' by 5711 & Accession & Farbrausch (2020)"
 >}}
