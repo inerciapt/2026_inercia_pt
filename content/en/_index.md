@@ -8,6 +8,8 @@ sections:
   - overline: "Theme"
     title: "All will be revealed"
     content: |
-      Inércia 2026 will have a new theme we will share in due time
+      Inércia 2026  will take place 4 to 6 December 2026 at Salão Festas Incrível Almadense.
+      
+      This year's theme will be reveladed in due time.
 
 ---
