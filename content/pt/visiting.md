@@ -6,7 +6,7 @@ summary: "Anuncia a tua presença"
 
 Não é necessário registares-te para participar remotamente.
 
-O local do evento tem capacidade limitada, o registo prévio da tua visita presencial ajuda-nos a planear melhor. Podes-te registar para a visita presencial através [deste formulário google](https://forms.gle/JaWHKEY1zUMBJxWp7) ou [enviando-nos um email](mailto:info@inercia.pt&subject=Inércia%202026).
+O local do evento tem capacidade limitada, o registo prévio da tua visita presencial ajuda-nos a planear melhor. Podes-te registar para a visita presencial através [deste formulário google](https://forms.gle/xGChKg6Ta3DVHeci7) ou [enviando-nos um email](mailto:info@inercia.pt&subject=Inércia%202026).
 
 ## Visitantes
 

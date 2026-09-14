@@ -6,7 +6,7 @@ summary: "Let us know you are coming"
 
 You do not need to register on this form to participate remotely.
 
-The venue has a limited attendance capacity, early registration of your physical attendance helps us plan things better. You can register your physical attendance plans using [this google form](https://forms.gle/JaWHKEY1zUMBJxWp7) or [through email](mailto:info@inercia.pt&subject=Inércia%202026).
+The venue has a limited attendance capacity, early registration of your physical attendance helps us plan things better. You can register your physical attendance plans using [this google form](https://forms.gle/xGChKg6Ta3DVHeci7) or [through email](mailto:info@inercia.pt&subject=Inércia%202026).
 
 ## Visitors
 
