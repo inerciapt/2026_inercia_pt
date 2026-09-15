@@ -320,16 +320,18 @@ checkboxes can't require "at least one checked" on their own.
 <script>
   document.getElementById('event-form').addEventListener('submit', function (e) {
     var fieldset = document.getElementById('days-fieldset');
-    var days = fieldset.querySelectorAll('input[type="checkbox"]:checked');
+    var checked = fieldset.querySelectorAll('input.o-eventform__day:checked');
     var errorEl = document.getElementById('days-error');
-    if (days.length === 0) {
+    if (checked.length === 0) {
       e.preventDefault();
       errorEl.style.display = 'block';
       fieldset.classList.add('-invalid');
       fieldset.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    } else {
-      errorEl.style.display = 'none';
-      fieldset.classList.remove('-invalid');
+      return;
     }
+    errorEl.style.display = 'none';
+    fieldset.classList.remove('-invalid');
+    var values = Array.prototype.map.call(checked, function (c) { return c.value; });
+    document.getElementById('days-hidden').value = values.join(', ');
   });
 </script>
