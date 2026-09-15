@@ -300,6 +300,7 @@ checkboxes can't require "at least one checked" on their own.
       <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
       <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>
     </div>
+    <input type="hidden" id="days-hidden" name="Days" value="" />
     <p class="o-eventform__error" id="days-error" style="display:none">{{ i18n "days_error" }}</p>
   </fieldset>
 
