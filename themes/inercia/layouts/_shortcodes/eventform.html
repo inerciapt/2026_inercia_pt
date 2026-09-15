@@ -295,10 +295,10 @@ checkboxes can't require "at least one checked" on their own.
   <fieldset class="o-eventform__field o-eventform__fieldset" id="days-fieldset">
     <legend class="o-eventform__legend">{{ i18n "form_days_legend" }}</legend>
     <div class="o-eventform__options">
-      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>
     </div>
     <p class="o-eventform__error" id="days-error" style="display:none">{{ i18n "days_error" }}</p>
   </fieldset>
