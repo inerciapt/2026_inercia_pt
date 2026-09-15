@@ -6,3 +6,87 @@ other = "Não percas nenhum momento do evento! Estamos a transmitir em direto pa
 
 [live-banner-extra-2]
 other = "Mantem-te ligado e vive o evento à medida que acontece!"
+
+[form_email_label]
+other = "Email *"
+
+[form_thanks]
+other = "https://2026.inercia.pt/pt/registercomplete"
+
+[form_name_label]
+other = "Nome"
+
+[form_nickname_label]
+other = "Alcunha"
+
+[form_nationality_label]
+other = "Nacionalidade"
+
+[form_public_consent_legend]
+other = "Podemos divulgar a sua alcunha e nacionalidade no nosso site?"
+
+[consent_yes]
+other = "Sim"
+
+[consent_no]
+other = "Não"
+
+[form_entrance_label]
+other = "Opção de entrada planeada"
+
+[select_placeholder]
+other = "Selecione uma opção"
+
+[entrance_volunteer]
+other = "Sou voluntário como organizador / orador (entrada gratuita)"
+
+[entrance_associate]
+other = "Sou associado da Inércia ou da SFIA com as quotas anuais pagas (12€ ou 24€)"
+
+[entrance_standard]
+other = "Vou pagar a taxa de entrada padrão (5€ / dia)"
+
+[entrance_supporter]
+other = "Vou pagar a taxa de apoiante do evento (100€)"
+
+[entrance_not_attending]
+other = "Não vou participar e não deveria estar a preencher este formulário."
+
+[form_photo_legend]
+other = "Consentimento de fotografias"
+
+[photo_ok]
+other = "Não me importo que tirem fotografias minhas para promoção e documentação"
+
+[photo_no]
+other = 'Vou precisar de um crachá "por favor não tirem fotografias"'
+
+[form_tshirt_label]
+other = "Tamanho de t-shirt"
+
+[tshirt_none]
+other = "Não quero t-shirt / prefiro não dizer"
+
+[form_days_legend]
+other = "Em que dias planeia participar? *"
+
+[day_friday]
+other = "Sexta-feira, 4 de dezembro"
+
+[day_saturday]
+other = "Sábado, 5 de dezembro"
+
+[day_sunday]
+other = "Domingo, 6 de dezembro"
+
+[day_not_attending]
+other = "Na verdade não posso participar presencialmente, não me deveria ter inscrito aqui."
+
+[days_error]
+other = "Por favor selecione pelo menos uma opção."
+
+[form_sleep_legend]
+other = "Temos um pavilhão para dormir disponível no local (o inverno pode ser frio, venha preparado). Planeia dormir lá?"
+
+[submit_button]
+other = "Submeter"

@@ -6,3 +6,87 @@ other = "Don’t miss a moment of the event! We’re streaming it live so you ca
 
 [live-banner-extra-2]
 other = "Stay connected and experience the event as it unfolds!"
+
+[form_email_label]
+other = "Email *"
+
+[form_thanks]
+other = "https://2026.inercia.pt/en/registercomplete"
+
+[form_name_label]
+other = "Name"
+
+[form_nickname_label]
+other = "Nickname"
+
+[form_nationality_label]
+other = "Nationality"
+
+[form_public_consent_legend]
+other = "Can we list your nickname and nationality on our website?"
+
+[consent_yes]
+other = "Yes"
+
+[consent_no]
+other = "No"
+
+[form_entrance_label]
+other = "Planned entrance option"
+
+[select_placeholder]
+other = "Select an option"
+
+[entrance_volunteer]
+other = "I am volunteering as an organizer / speaker (free entrance)"
+
+[entrance_associate]
+other = "I am an associate of Inércia or SFIA with my yearly quotas paid (12€ or 24€)"
+
+[entrance_standard]
+other = "Will pay the standard entrance fee (5€ / day)"
+
+[entrance_supporter]
+other = "Will pay the event supporter entrance fee (100€)"
+
+[entrance_not_attending]
+other = "I'm not planning to attend and shouldn't be filling out this form."
+
+[form_photo_legend]
+other = "Photo Consent"
+
+[photo_ok]
+other = "I don't mind photos of me being taken for promotion and documentation"
+
+[photo_no]
+other = 'I will need one of those "do not take photos of me please" badges'
+
+[form_tshirt_label]
+other = "T-shirt size"
+
+[tshirt_none]
+other = "I don't want a t-shirt / rather not say"
+
+[form_days_legend]
+other = "What days are you planning to attend? *"
+
+[day_friday]
+other = "Friday, 4 December"
+
+[day_saturday]
+other = "Saturday, 5 December"
+
+[day_sunday]
+other = "Sunday, 6 December"
+
+[day_not_attending]
+other = "Actually, I can't attend in person, shouldn't have registered here."
+
+[days_error]
+other = "Please select at least one option."
+
+[form_sleep_legend]
+other = "We have a sleeping hall available at the partyplace (winter can be cold, come prepared). Are you planning to sleep there?"
+
+[submit_button]
+other = "Submit"

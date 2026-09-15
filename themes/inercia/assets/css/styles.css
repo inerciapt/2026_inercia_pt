@@ -2788,4 +2788,196 @@ code {
 	background-color: #00000080;
 }
 
+/* --- Event Registration Form (o-eventform) --- */
+.o-eventform {
+	--form-bg: #000c;
+	--form-border: #ffffff24;
+	--form-field-bg: #ffffff0d;
+	--form-field-bg-hover: #ffffff14;
+	--form-accent: var(--color-highlight);
+	display: flex;
+	flex-direction: column;
+	gap: var(--unit-s);
+	max-width: 720px;
+	margin-block: var(--unit-m) var(--unit-l);
+	margin-inline: auto;
+	padding: var(--unit-m);
+	background: var(--form-bg);
+	border: 1px solid var(--form-border);
+	border-radius: 16px;
+	box-shadow: 0 0 32px #00000020;
+	box-sizing: border-box;
+}
+
+.o-eventform__field {
+	display: flex;
+	flex-direction: column;
+	gap: .6em;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	min-width: 0;
+}
+
+.o-eventform__label,
+.o-eventform__legend {
+	color: var(--form-accent);
+	font-size: var(--fs-s);
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: .06em;
+	line-height: 1.4;
+	padding: 0;
+}
+
+.o-eventform__legend {
+	float: left;
+	width: 100%;
+	margin-block-end: .6em;
+}
+
+.o-eventform__legend + .o-eventform__options {
+	clear: both;
+}
+
+.o-eventform__fieldset {
+	background: var(--form-field-bg);
+	border: 1px solid var(--form-border);
+	border-radius: 12px;
+	padding: var(--unit-s);
+}
+
+.o-eventform__input {
+	width: 100%;
+	box-sizing: border-box;
+	background: var(--form-field-bg);
+	border: 1px solid var(--form-border);
+	border-radius: 8px;
+	color: var(--color-white);
+	font-size: var(--fs-base);
+	font-family: inherit;
+	line-height: 1.5;
+	padding: .85em 1em;
+	transition: border-color .2s ease-out, background-color .2s ease-out, box-shadow .2s ease-out;
+}
+
+.o-eventform__input::placeholder {
+	color: #ffffff54;
+}
+
+.o-eventform__input:hover {
+	background: var(--form-field-bg-hover);
+}
+
+.o-eventform__input:focus {
+	outline: none;
+	border-color: var(--form-accent);
+	background: #ffffff14;
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--form-accent), transparent 70%);
+}
+
+.o-eventform__select {
+	appearance: none;
+	-webkit-appearance: none;
+	padding-inline-end: 2.75em;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3E%3Cpath fill='%23c8e883' d='M4 6l4 4 4-4z'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-position: right 1em center;
+	cursor: pointer;
+}
+
+.o-eventform__select option {
+	background: var(--color-black-off);
+	color: var(--color-white);
+}
+
+.o-eventform__options {
+	display: flex;
+	flex-direction: column;
+	gap: .6em;
+}
+
+.o-eventform__option {
+	display: flex;
+	align-items: flex-start;
+	gap: .75em;
+	background: #ffffff0a;
+	border: 1px solid transparent;
+	border-radius: 8px;
+	padding: .7em .9em;
+	font-size: var(--fs-base);
+	line-height: 1.5;
+	color: color-mix(in srgb, var(--color-highlight), var(--color-grey70) 70%);
+	cursor: pointer;
+	transition: background-color .2s ease-out, border-color .2s ease-out;
+}
+
+.o-eventform__option:hover {
+	background: var(--form-field-bg-hover);
+	border-color: var(--form-border);
+}
+
+.o-eventform__option:has(input:checked) {
+	background: color-mix(in srgb, var(--form-accent), transparent 88%);
+	border-color: color-mix(in srgb, var(--form-accent), transparent 40%);
+	color: var(--color-white);
+}
+
+.o-eventform__option:has(input:focus-visible) {
+	outline: none;
+	border-color: var(--form-accent);
+	box-shadow: 0 0 0 2px color-mix(in srgb, var(--form-accent), transparent 70%);
+}
+
+.o-eventform__option input {
+	flex-shrink: 0;
+	width: 1.15em;
+	height: 1.15em;
+	margin-block-start: .2em;
+	accent-color: var(--form-accent);
+	cursor: pointer;
+}
+
+.o-eventform__error {
+	margin: 0;
+	font-size: var(--fs-s);
+	font-weight: 700;
+	color: #ff9d9d;
+}
+
+.o-eventform__fieldset.-invalid {
+	border-color: #ff9d9d;
+}
+
+.o-eventform__actions {
+	display: flex;
+	justify-content: center;
+	margin-block-start: var(--unit-s);
+}
+
+.o-eventform__submit {
+	justify-content: center;
+	width: 100%;
+	transition: transform .15s ease-out, filter .2s ease-out;
+}
+
+@media (min-width: 640px) {
+	.o-eventform {
+		padding: var(--unit-l);
+	}
+
+	.o-eventform__submit {
+		width: auto;
+		min-width: 240px;
+	}
+}
+
+@media (hover: hover) {
+	.o-eventform__submit:hover {
+		filter: brightness(1.08);
+		transform: translateY(-1px);
+	}
+}
+/* --- End Event Registration Form --- */
+
 

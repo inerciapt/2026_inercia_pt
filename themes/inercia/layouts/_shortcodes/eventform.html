@@ -1,0 +1,334 @@
+<!--
+layouts/shortcodes/eventform.html
+Call this shortcode from a content page (see chat for the exact
+invocation syntax - not included here since Hugo parses this whole
+file as a Go template, including comments).
+
+Labels are pulled from i18n/en.toml and i18n/pt.toml automatically
+based on the language of the page the shortcode is used on.
+
+Swap FORMSUBMIT_ENDPOINT below for your target email once you confirm
+it via FormSubmit.co's confirmation email (sent on first submission).
+
+All fields are mandatory per spec, including the checkbox group
+(days attending), enforced via the inline script since native HTML
+checkboxes can't require "at least one checked" on their own.
+-->
+
+<form
+  action="https://formsubmit.co/1720f59b1808c9c9679d89b69d9d718b"
+  method="POST"
+  id="event-form"
+  class="o-eventform"
+>
+  <input type="hidden" name="_subject" value="New event registration" />
+  <input type="hidden" name="_template" value="table" />
+  <input type="hidden" name="_captcha" value="false" />
+  <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
+  <input type="hidden" name="_next" value="{{ i18n "form_thanks" }}">
+
+  <div class="o-eventform__field">
+    <label class="o-eventform__label" for="email">{{ i18n "form_email_label" }}</label>
+    <input class="o-eventform__input" type="email" id="email" name="Email" placeholder="you@example.com" autocomplete="email" required />
+  </div>
+
+  <div class="o-eventform__field">
+    <label class="o-eventform__label" for="name">{{ i18n "form_name_label" }}</label>
+    <input class="o-eventform__input" type="text" id="name" name="Name" autocomplete="name"  />
+  </div>
+
+  <div class="o-eventform__field">
+    <label class="o-eventform__label" for="nickname">{{ i18n "form_nickname_label" }}</label>
+    <input class="o-eventform__input" type="text" id="nickname" name="Nickname" autocomplete="nickname"  />
+  </div>
+
+  <div class="o-eventform__field">
+    <label class="o-eventform__label" for="nationality">{{ i18n "form_nationality_label" }}</label>
+    <select class="o-eventform__input o-eventform__select" id="nationality" name="Nationality" autocomplete="country-name" >
+      <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
+      <optgroup label='{{ i18n "nationality_group_europe" }}'>
+        <option value="Portugal">Portugal</option>
+        <option value="Albania">Albania</option>
+        <option value="Andorra">Andorra</option>
+        <option value="Austria">Austria</option>
+        <option value="Belarus">Belarus</option>
+        <option value="Belgium">Belgium</option>
+        <option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+        <option value="Bulgaria">Bulgaria</option>
+        <option value="Croatia">Croatia</option>
+        <option value="Cyprus">Cyprus</option>
+        <option value="Czechia">Czechia</option>
+        <option value="Denmark">Denmark</option>
+        <option value="Estonia">Estonia</option>
+        <option value="Finland">Finland</option>
+        <option value="France">France</option>
+        <option value="Germany">Germany</option>
+        <option value="Greece">Greece</option>
+        <option value="Hungary">Hungary</option>
+        <option value="Iceland">Iceland</option>
+        <option value="Ireland">Ireland</option>
+        <option value="Italy">Italy</option>
+        <option value="Kosovo">Kosovo</option>
+        <option value="Latvia">Latvia</option>
+        <option value="Liechtenstein">Liechtenstein</option>
+        <option value="Lithuania">Lithuania</option>
+        <option value="Luxembourg">Luxembourg</option>
+        <option value="Malta">Malta</option>
+        <option value="Moldova">Moldova</option>
+        <option value="Monaco">Monaco</option>
+        <option value="Montenegro">Montenegro</option>
+        <option value="Netherlands">Netherlands</option>
+        <option value="North Macedonia">North Macedonia</option>
+        <option value="Norway">Norway</option>
+        <option value="Poland">Poland</option>
+        <option value="Romania">Romania</option>
+        <option value="Russia">Russia</option>
+        <option value="San Marino">San Marino</option>
+        <option value="Serbia">Serbia</option>
+        <option value="Slovakia">Slovakia</option>
+        <option value="Slovenia">Slovenia</option>
+        <option value="Spain">Spain</option>
+        <option value="Sweden">Sweden</option>
+        <option value="Switzerland">Switzerland</option>
+        <option value="Ukraine">Ukraine</option>
+        <option value="United Kingdom">United Kingdom</option>
+        <option value="Vatican City">Vatican City</option>
+      </optgroup>
+      <optgroup label='{{ i18n "nationality_group_other" }}'>
+        <option value="Afghanistan">Afghanistan</option>
+        <option value="Algeria">Algeria</option>
+        <option value="Angola">Angola</option>
+        <option value="Antigua and Barbuda">Antigua and Barbuda</option>
+        <option value="Argentina">Argentina</option>
+        <option value="Armenia">Armenia</option>
+        <option value="Australia">Australia</option>
+        <option value="Azerbaijan">Azerbaijan</option>
+        <option value="Bahamas">Bahamas</option>
+        <option value="Bahrain">Bahrain</option>
+        <option value="Bangladesh">Bangladesh</option>
+        <option value="Barbados">Barbados</option>
+        <option value="Belize">Belize</option>
+        <option value="Benin">Benin</option>
+        <option value="Bhutan">Bhutan</option>
+        <option value="Bolivia">Bolivia</option>
+        <option value="Botswana">Botswana</option>
+        <option value="Brazil">Brazil</option>
+        <option value="Brunei">Brunei</option>
+        <option value="Burkina Faso">Burkina Faso</option>
+        <option value="Burundi">Burundi</option>
+        <option value="Cabo Verde">Cabo Verde</option>
+        <option value="Cambodia">Cambodia</option>
+        <option value="Cameroon">Cameroon</option>
+        <option value="Canada">Canada</option>
+        <option value="Central African Republic">Central African Republic</option>
+        <option value="Chad">Chad</option>
+        <option value="Chile">Chile</option>
+        <option value="China">China</option>
+        <option value="Colombia">Colombia</option>
+        <option value="Comoros">Comoros</option>
+        <option value="Congo (Congo-Brazzaville)">Congo (Congo-Brazzaville)</option>
+        <option value="Costa Rica">Costa Rica</option>
+        <option value="Cuba">Cuba</option>
+        <option value="Democratic Republic of the Congo">Democratic Republic of the Congo</option>
+        <option value="Djibouti">Djibouti</option>
+        <option value="Dominica">Dominica</option>
+        <option value="Dominican Republic">Dominican Republic</option>
+        <option value="Ecuador">Ecuador</option>
+        <option value="Egypt">Egypt</option>
+        <option value="El Salvador">El Salvador</option>
+        <option value="Equatorial Guinea">Equatorial Guinea</option>
+        <option value="Eritrea">Eritrea</option>
+        <option value="Eswatini">Eswatini</option>
+        <option value="Ethiopia">Ethiopia</option>
+        <option value="Fiji">Fiji</option>
+        <option value="Gabon">Gabon</option>
+        <option value="Gambia">Gambia</option>
+        <option value="Georgia">Georgia</option>
+        <option value="Ghana">Ghana</option>
+        <option value="Grenada">Grenada</option>
+        <option value="Guatemala">Guatemala</option>
+        <option value="Guinea">Guinea</option>
+        <option value="Guinea-Bissau">Guinea-Bissau</option>
+        <option value="Guyana">Guyana</option>
+        <option value="Haiti">Haiti</option>
+        <option value="Honduras">Honduras</option>
+        <option value="India">India</option>
+        <option value="Indonesia">Indonesia</option>
+        <option value="Iran">Iran</option>
+        <option value="Iraq">Iraq</option>
+        <option value="Israel">Israel</option>
+        <option value="Jamaica">Jamaica</option>
+        <option value="Japan">Japan</option>
+        <option value="Jordan">Jordan</option>
+        <option value="Kazakhstan">Kazakhstan</option>
+        <option value="Kenya">Kenya</option>
+        <option value="Kiribati">Kiribati</option>
+        <option value="Kuwait">Kuwait</option>
+        <option value="Kyrgyzstan">Kyrgyzstan</option>
+        <option value="Laos">Laos</option>
+        <option value="Lebanon">Lebanon</option>
+        <option value="Lesotho">Lesotho</option>
+        <option value="Liberia">Liberia</option>
+        <option value="Libya">Libya</option>
+        <option value="Madagascar">Madagascar</option>
+        <option value="Malawi">Malawi</option>
+        <option value="Malaysia">Malaysia</option>
+        <option value="Maldives">Maldives</option>
+        <option value="Mali">Mali</option>
+        <option value="Marshall Islands">Marshall Islands</option>
+        <option value="Mauritania">Mauritania</option>
+        <option value="Mauritius">Mauritius</option>
+        <option value="Mexico">Mexico</option>
+        <option value="Micronesia">Micronesia</option>
+        <option value="Mongolia">Mongolia</option>
+        <option value="Morocco">Morocco</option>
+        <option value="Mozambique">Mozambique</option>
+        <option value="Myanmar">Myanmar</option>
+        <option value="Namibia">Namibia</option>
+        <option value="Nauru">Nauru</option>
+        <option value="Nepal">Nepal</option>
+        <option value="New Zealand">New Zealand</option>
+        <option value="Nicaragua">Nicaragua</option>
+        <option value="Niger">Niger</option>
+        <option value="Nigeria">Nigeria</option>
+        <option value="North Korea">North Korea</option>
+        <option value="Oman">Oman</option>
+        <option value="Pakistan">Pakistan</option>
+        <option value="Palau">Palau</option>
+        <option value="Palestine State">Palestine State</option>
+        <option value="Panama">Panama</option>
+        <option value="Papua New Guinea">Papua New Guinea</option>
+        <option value="Paraguay">Paraguay</option>
+        <option value="Peru">Peru</option>
+        <option value="Philippines">Philippines</option>
+        <option value="Qatar">Qatar</option>
+        <option value="Rwanda">Rwanda</option>
+        <option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+        <option value="Saint Lucia">Saint Lucia</option>
+        <option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+        <option value="Samoa">Samoa</option>
+        <option value="Sao Tome and Principe">Sao Tome and Principe</option>
+        <option value="Saudi Arabia">Saudi Arabia</option>
+        <option value="Senegal">Senegal</option>
+        <option value="Seychelles">Seychelles</option>
+        <option value="Sierra Leone">Sierra Leone</option>
+        <option value="Singapore">Singapore</option>
+        <option value="Solomon Islands">Solomon Islands</option>
+        <option value="Somalia">Somalia</option>
+        <option value="South Africa">South Africa</option>
+        <option value="South Korea">South Korea</option>
+        <option value="South Sudan">South Sudan</option>
+        <option value="Sri Lanka">Sri Lanka</option>
+        <option value="Sudan">Sudan</option>
+        <option value="Suriname">Suriname</option>
+        <option value="Syria">Syria</option>
+        <option value="Taiwan">Taiwan</option>
+        <option value="Tajikistan">Tajikistan</option>
+        <option value="Tanzania">Tanzania</option>
+        <option value="Thailand">Thailand</option>
+        <option value="Timor-Leste">Timor-Leste</option>
+        <option value="Togo">Togo</option>
+        <option value="Tonga">Tonga</option>
+        <option value="Trinidad and Tobago">Trinidad and Tobago</option>
+        <option value="Tunisia">Tunisia</option>
+        <option value="Turkey">Turkey</option>
+        <option value="Turkmenistan">Turkmenistan</option>
+        <option value="Tuvalu">Tuvalu</option>
+        <option value="Uganda">Uganda</option>
+        <option value="United Arab Emirates">United Arab Emirates</option>
+        <option value="United States">United States</option>
+        <option value="Uruguay">Uruguay</option>
+        <option value="Uzbekistan">Uzbekistan</option>
+        <option value="Vanuatu">Vanuatu</option>
+        <option value="Venezuela">Venezuela</option>
+        <option value="Vietnam">Vietnam</option>
+        <option value="Yemen">Yemen</option>
+        <option value="Zambia">Zambia</option>
+        <option value="Zimbabwe">Zimbabwe</option>
+      </optgroup>
+    </select>
+  </div>
+
+  <fieldset class="o-eventform__field o-eventform__fieldset">
+    <legend class="o-eventform__legend">{{ i18n "form_public_consent_legend" }}</legend>
+    <div class="o-eventform__options">
+      <label class="o-eventform__option"><input type="radio" name="Public listing consent" value="Yes"  /> <span>{{ i18n "consent_yes" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="Public listing consent" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+    </div>
+  </fieldset>
+
+  <div class="o-eventform__field">
+    <label class="o-eventform__label" for="entrance">{{ i18n "form_entrance_label" }}</label>
+    <select class="o-eventform__input o-eventform__select" id="entrance" name="Planned entrance option" >
+      <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
+      <option value="Volunteering as organizer/speaker (free entrance)">{{ i18n "entrance_volunteer" }}</option>
+      <option value="Inercia/SFIA associate, quotas paid (12/24 EUR)">{{ i18n "entrance_associate" }}</option>
+      <option value="Standard entrance fee (5 EUR/day)">{{ i18n "entrance_standard" }}</option>
+      <option value="Supporter entrance fee (100 EUR)">{{ i18n "entrance_supporter" }}</option>
+      <option value="Not attending, filled by mistake">{{ i18n "entrance_not_attending" }}</option>
+    </select>
+  </div>
+
+  <fieldset class="o-eventform__field o-eventform__fieldset">
+    <legend class="o-eventform__legend">{{ i18n "form_photo_legend" }}</legend>
+    <div class="o-eventform__options">
+      <label class="o-eventform__option"><input type="radio" name="Photo consent" value="OK with photos"  /> <span>{{ i18n "photo_ok" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="Photo consent" value="No photos badge" /> <span>{{ i18n "photo_no" }}</span></label>
+    </div>
+  </fieldset>
+
+  <div class="o-eventform__field">
+    <label class="o-eventform__label" for="tshirt">{{ i18n "form_tshirt_label" }}</label>
+    <select class="o-eventform__input o-eventform__select" id="tshirt" name="T-shirt size" >
+      <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
+      <option value="XS">XS</option>
+      <option value="S">S</option>
+      <option value="M">M</option>
+      <option value="L">L</option>
+      <option value="XL">XL</option>
+      <option value="XXL">XXL</option>
+      <option value="XXXL">XXXL</option>
+      <option value="No t-shirt / rather not say">{{ i18n "tshirt_none" }}</option>
+    </select>
+  </div>
+
+  <fieldset class="o-eventform__field o-eventform__fieldset" id="days-fieldset">
+    <legend class="o-eventform__legend">{{ i18n "form_days_legend" }}</legend>
+    <div class="o-eventform__options">
+      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" name="Days" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>
+    </div>
+    <p class="o-eventform__error" id="days-error" style="display:none">{{ i18n "days_error" }}</p>
+  </fieldset>
+
+  <fieldset class="o-eventform__field o-eventform__fieldset">
+    <legend class="o-eventform__legend">{{ i18n "form_sleep_legend" }}</legend>
+    <div class="o-eventform__options">
+      <label class="o-eventform__option"><input type="radio" name="Sleeping hall" value="Yes"  /> <span>{{ i18n "consent_yes" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="Sleeping hall" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+    </div>
+  </fieldset>
+
+  <div class="o-eventform__actions">
+    <button class="m-button o-eventform__submit" type="submit"><span class="m-button__label">{{ i18n "submit_button" }}</span></button>
+  </div>
+</form>
+
+<script>
+  document.getElementById('event-form').addEventListener('submit', function (e) {
+    var fieldset = document.getElementById('days-fieldset');
+    var days = fieldset.querySelectorAll('input[type="checkbox"]:checked');
+    var errorEl = document.getElementById('days-error');
+    if (days.length === 0) {
+      e.preventDefault();
+      errorEl.style.display = 'block';
+      fieldset.classList.add('-invalid');
+      fieldset.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    } else {
+      errorEl.style.display = 'none';
+      fieldset.classList.remove('-invalid');
+    }
+  });
+</script>
