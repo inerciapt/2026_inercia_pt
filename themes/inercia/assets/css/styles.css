@@ -2978,6 +2978,13 @@ code {
 		transform: translateY(-1px);
 	}
 }
+
+.o-eventform__consent {
+	margin: var(--unit-xs) 0 0;
+	font-size: calc(var(--fs-s) * .85);
+	text-align: center;
+	opacity: .7;
+}
 /* --- End Event Registration Form --- */
 
 
