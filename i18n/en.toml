@@ -13,6 +13,9 @@ other = "Email *"
 [form_thanks]
 other = "https://2026.inercia.pt/en/registercomplete"
 
+[form_consent]
+other = "By clicking this button, you accept typed-in data to go through https://formsubmit.co and end up in an email account of Associação Inércia"
+
 [form_name_label]
 other = "Name"
 
