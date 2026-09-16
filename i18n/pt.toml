@@ -13,6 +13,9 @@ other = "Email *"
 [form_thanks]
 other = "https://2026.inercia.pt/pt/registercomplete"
 
+[form_consent]
+other = "Ao clicar no botão, aceitas que os dados fornecidos passem por https://formsubmit.co e que terminem num email da Associação Inércia"
+
 [form_name_label]
 other = "Nome"
 
