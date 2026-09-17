@@ -26,11 +26,23 @@ sections:
     padding_top_zero: false
 
   - overline: "Theme"
-    title: "All will be revealed"
+    title: "TEMPO (pt: time/weather)"
     content: |
-      Inércia 2026  will take place 4 to 6 December 2026 at Salão Festas Incrível Almadense.
+      There’s no time like the present. 
+      But looking back is important to better prepare for the future. 
       
-      This year's theme will be reveladed in due time.
+      This year, we’ll take our time and savor every second of digital art at Inércia 2026. 
+      
+      We’re also hoping for good weather to enjoy the beautiful city of Almada - provided there’s time between the festival's various activities.
+
+      Don't waste any time, start working on your project now and set aside some time in December to visit Inércia!
+    image:
+      src: "/images/1337_inercia23.webp"
+      alt: "Wrist watch showing 13:37 and Inércia 2023 logo"
+      width: 800
+      height: 400
+      ratio: "3/2"
+      attribution: "Jorge Silva"
 
   - overline: "Participate!"
     title: "Competitions & Showcases"

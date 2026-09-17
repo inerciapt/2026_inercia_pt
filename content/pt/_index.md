@@ -26,12 +26,26 @@ sections:
     imageFirst: true
     padding_top_zero: false
 
-  - overline: "Tema"
-    title: "Tudo será revelado"
+  - overline: "Theme"
+    title: "TEMPO"
     content: |
-      A edição de 2026 terá lugar de 4 a 6 de Dezembro no Salão de Festas da Incrível Almadense
+      Não há tempo como o presente. 
       
-      O tema para este ano será revelado a seu tempo
+      Mas é importante olhar para trás, para melhor preparar o futuro.
+      
+      Este ano, vamos dar tempo ao tempo e aproveitar cada segundo de Arte Digital durante a Inércia 2026. 
+      
+      Vamos também esperar bom tempo para aproveitar a bela cidade de Almada, assim haja tempo entre as variadas atividades do Festival.
+
+      Não percas mais tempo, começa já a trabalhar na tua produção e dá-nos um bocado do teu tempo em dezembro para visitar a Inércia!
+    image:
+      src: "/images/1337_inercia23.webp"
+      alt: "Wrist watch showing 13:37 and Inércia 2023 logo"
+      width: 800
+      height: 400
+      ratio: "3/2"
+      attribution: "Jorge Silva"
+
 
   - overline: "Participa"
     title: "Mostras & Competições"
