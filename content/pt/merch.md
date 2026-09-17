@@ -17,14 +17,6 @@ Os troféus da Inércia Demoparty são exclusivos para os vencedores das competi
 
 ---
 
-### 🧣 Cachecóis Inércia {#scarfs}
-
-{{< singleimage img="/images/scarfs-960.jpg" caption="Cristina Gaspar" alt="Cachecóis" >}}
-
-E para proteger do frio, os vencedores da competição de Demos levarão para casa um cachecol feito à mão com a imagem do evento. Apenas alguns foram feitos, por isso o melhor é ter a certeza que a vossa demo é a melhor de todas!
-
----
-
 ### 👕 T-Shirts do Evento {#tshirts}
 
 {{< singleimage img="/images/tshirts-960.jpg" caption="Harvest" alt="T-shirts" >}}
@@ -49,17 +41,3 @@ Todos os anos somos invadidos por vários autocolantes de diversos visitantes, p
 
 Como brinde gratuito para ajudar a reduzir o desperdício de plástico e papel, no ano passado oferecemos canecas personalizadas para café/água a todos os nossos visitantes. Embora não tenhamos feito novas este ano, ainda temos algumas do lote do ano passado. Se fores rápido podes obter uma em troca de um donativo antes que o stock acabe. Estarão disponíveis na Infodesk.
 
----
-
-### 🧣 Mantas Inércia {#blankets}
-
-{{< singleimage img="/images/blankets-960.jpg" caption="Cristina Gaspar" alt="Mantas" >}}
-
-O ano passado, ficou bastante frio durante a noite, e este ano a previsão não é muito melhor. Não há muito que possamos fazer acerca do isolamento térmico do local, mas podemos fornecer umas mantas personalizadas da Inércia para te aqueceres. Estarão disponíveis na Infodesk.
-
----
-
-### 🖽 Azulejos Inércia {#tiles}
-{{< singleimage img="/images/tiles-960.jpg" caption="Cristina Gaspar" alt="Azulejos" >}}
-
-Com o design de [Manuel Correia](https://demozoo.org/sceners/42627/) e a produção da [Pombal Ceramics](https://joaquimpombal.blogspot.com/), o Azulejo Inércia é o artigo mais tradicionalmente português desta lista. Cada novo associado terá direito a um, e no caso de não poderem estar presentes, será enviado com o maior amor e carinho para vossa casa. De que estão à espera para se tornarem associados? [Registem-se agora](https://inercia.pt/?register&lang=pt)!
