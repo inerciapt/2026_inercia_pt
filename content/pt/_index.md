@@ -26,7 +26,7 @@ sections:
     imageFirst: true
     padding_top_zero: false
 
-  - overline: "Theme"
+  - overline: "Tema"
     title: "TEMPO"
     content: |
       Não há tempo como o presente. 
