@@ -1504,6 +1504,54 @@ thead .o-timetable__cell {
 	margin-block-end: 0
 }
 
+.o-supporter {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 8px;
+	margin-top: 12px;
+	padding-bottom: 8px;
+	text-align: center;
+}
+
+.o-supporter__label {
+	margin: 0;
+	font-size: 11px;
+	letter-spacing: .08em;
+	text-transform: uppercase;
+	color: var(--component-text-color);
+	opacity: .85;
+}
+
+.o-supporter__list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 2em;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.o-supporter__link {
+	display: inline-block;
+	line-height: 0;
+}
+
+.o-supporter__logo {
+	height: 42px;
+	max-width: 170px;
+	width: auto;
+	object-fit: contain;
+	display: block;
+	opacity: .9;
+	transition: opacity .2s ease-out;
+}
+
+.o-supporter__link:hover .o-supporter__logo {
+	opacity: 1;
+}
+
 .b-siteNav {
 	--component-background-color: #101014bf;
 	background: var(--component-background-color);

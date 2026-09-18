@@ -25,6 +25,21 @@
 	{{ end }}
   </div>
 
+  {{ $apoio := where $sponsorsData "tier" "apoio" }}
+  {{ if gt (len $apoio) 0 }}
+  <div class="o-supporter">
+    <p class="o-supporter__label">Com o apoio da Câmara Municipal de Almada</p>
+    <ul class="o-supporter__list">
+      {{ range $apoio }}
+      <li class="o-supporter__item">
+        <a class="o-supporter__link" href="{{ .url }}" target="_blank" rel="noopener" aria-label="{{ .name }}">
+          <img class="o-supporter__logo" src="/{{ .logo }}" alt="{{ .name }}" loading="lazy" />
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
   <div class="o-socialList">
 	<ul class="o-socialList__items">
 	  {{ with .Site.Data.social }}
@@ -38,7 +53,7 @@
 		  </li>
 		{{ end }}
 	  {{ end }}
-	</ul>
+  </ul>
   </div>
   <style>
 	.sponsor-list {

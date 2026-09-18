@@ -4,8 +4,9 @@
   url: "https://incrivelalmadense.pt"
   logo: "images/svg/incrivel.svg"
 
+# ---------------------- Institutional support (rendered separately with legal caption)
 - name: "Câmara de Almada"
-  tier: "gold"
+  tier: "apoio"
   url: "https://cm-almada.pt"
   logo: "images/svg/cmalmada_2.svg"
 
