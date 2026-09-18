@@ -16,7 +16,7 @@ sections:
       text: "Local & Viagem"
       url: "./location/"
     image:
-      src: "/images/_DSC2349.webp"
+      src: "/images/sfia_shaderjam.webp"
       alt: "Foto do Salão da Inércia"
       width: 1280
       height: 853
@@ -75,6 +75,8 @@ sections:
     title: "Retro Corner"
     content: |
       Explora o Retro Corner, um canto repleto de computadores e consolas vintage onde podes aprender mais sobre as máquinas que tiveste (ou que nunca tiveste mas gostarias de ter tido). Aprende mais sobre os limites delas, vê demonstrações do que elas são capazes, aproveita para jogar alguns jogos e falar com pessoas que te conseguem ajudar a restaurar algumas das máquinas antigas que possas ter guardadas na arrecadação.
+
+      &nbsp;
     button:
       text: "Retrocorner"
       url: "./retrocorner/"        
@@ -112,6 +114,7 @@ sections:
     content: |
       Fica atento às diversas apresentações, instalações, mesas redondas e workshops que irão decorrer durante o evento. Cobrindo uma diversidade de tópicos ligados à demoscene, movimento maker, fabricação digital e os vários tipos de arte digital. Gostarias de apresentar algo? Entra em contacto, diz-nos o que tens em mente para tentarmos encaixar no nosso hórario.
 
+      &nbsp;
     image:
       src: "/images/talks-zxload.JPG"
       alt: "Seminars and Installations"

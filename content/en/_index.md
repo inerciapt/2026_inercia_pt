@@ -15,7 +15,7 @@ sections:
       text: "Location & Travel"
       url: "./location/"
     image:
-      src: "/images/_DSC2349.webp"
+      src: "/images/sfia_shaderjam.webp"
       alt: "Photo of the Inércia Party hall"
       width: 1280
       height: 853
@@ -71,6 +71,8 @@ sections:
     title: "Retro Corner"
     content: |
       Explore our retro corner filled with vintage computers where you can learn about the old machines you used to have (or never did), learn more about their limitations, watch some demos, play some games and chat with people that can help you get your old machine working again.
+
+      &nbsp;
     button:
       text: "Retrocorner"
       url: "./retrocorner/"      
@@ -107,6 +109,8 @@ sections:
       url: "./visiting/"
     content: |
       Join us for several talks, roundtables and workshops during the event. Covering a range of topics related to the demoscene, electronic tinkering, retro computing and the digital arts. Would you like to present something? Get in touch and tell us what you have in mind and we'll try to accomodate within reason.
+
+      &nbsp;
     image:
       src: "/images/talks-zxload.JPG"
       alt: "Seminars and Installations"
