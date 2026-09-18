@@ -4,11 +4,12 @@
   url: "https://incrivelalmadense.pt"
   logo: "images/svg/incrivel.svg"
 
-# ---------------------- Institutional support (rendered separately with legal caption)
+# ---------------------- Institutional support (rendered separately with per-item legal caption)
 - name: "Câmara de Almada"
   tier: "apoio"
   url: "https://cm-almada.pt"
   logo: "images/svg/cmalmada_2.svg"
+  caption: "Com o apoio da Câmara Municipal de Almada"
 
 - name: "Juntas"
   tier: "gold"

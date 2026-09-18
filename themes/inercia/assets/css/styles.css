@@ -1538,6 +1538,14 @@ thead .o-timetable__cell {
 	line-height: 0;
 }
 
+.o-supporter__figure {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 8px;
+}
+
 .o-supporter__logo {
 	height: 42px;
 	max-width: 170px;
