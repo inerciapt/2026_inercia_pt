@@ -1,7 +1,24 @@
 <footer class="b-siteFooter">
   <div class="b-siteFooter__container">
+  {{ $sponsorsData := .Site.Data.sponsors }}
+  {{ $apoio := where $sponsorsData "tier" "apoio" }}
+  {{ if gt (len $apoio) 0 }}
+  <div class="o-supporter">
+    <ul class="o-supporter__list">
+      {{ range $apoio }}
+      <li class="o-supporter__item">
+        <figure class="o-supporter__figure">
+          {{ with .caption }}<figcaption class="o-supporter__label">{{ . }}</figcaption>{{ end }}
+          <a class="o-supporter__link" href="{{ .url }}" target="_blank" rel="noopener" aria-label="{{ .name }}">
+            <img class="o-supporter__logo" src="/{{ .logo }}" alt="{{ .name }}" loading="lazy" />
+          </a>
+        </figure>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
   <div id="sponsors">
-	{{ $sponsorsData := .Site.Data.sponsors }}
 	{{ $tiers := slice
 		(dict "name" "gold"   "label" "Gold Sponsors"   "class" "sponsor-logo-gold")
 		(dict "name" "silver" "label" "Silver Sponsors" "class" "sponsor-logo-silver")
@@ -25,23 +42,6 @@
 	{{ end }}
   </div>
 
-  {{ $apoio := where $sponsorsData "tier" "apoio" }}
-  {{ if gt (len $apoio) 0 }}
-  <div class="o-supporter">
-    <ul class="o-supporter__list">
-      {{ range $apoio }}
-      <li class="o-supporter__item">
-        <figure class="o-supporter__figure">
-          {{ with .caption }}<figcaption class="o-supporter__label">{{ . }}</figcaption>{{ end }}
-          <a class="o-supporter__link" href="{{ .url }}" target="_blank" rel="noopener" aria-label="{{ .name }}">
-            <img class="o-supporter__logo" src="/{{ .logo }}" alt="{{ .name }}" loading="lazy" />
-          </a>
-        </figure>
-      </li>
-      {{ end }}
-    </ul>
-  </div>
-  {{ end }}
   <div class="o-socialList">
 	<ul class="o-socialList__items">
 	  {{ with .Site.Data.social }}
