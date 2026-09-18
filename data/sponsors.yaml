@@ -14,10 +14,10 @@
   url: "https://www.uf-acppc.pt/"
   logo: "images/svg/junta.svg"
 
-#- name: "Amplify Creations"
-#  tier: "gold"
-#  url: "https://amplify.pt/"
-#  logo: "images/svg/amplify.svg"
+- name: "Amplify Creations"
+  tier: "gold"
+  url: "https://amplify.pt/"
+  logo: "images/svg/amplify.svg"
 
 # ---------------------- Silver
 - name: "Mr. Print"
