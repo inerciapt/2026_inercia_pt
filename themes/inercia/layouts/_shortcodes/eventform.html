@@ -261,6 +261,7 @@ checkboxes can't require "at least one checked" on their own.
 
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="entrance">{{ i18n "form_entrance_label" }}</label>
+    <p class="o-eventform__hint">{{ i18n "form_entrance_hint" | safeHTML }}</p>
     <select class="o-eventform__input o-eventform__select" id="entrance" name="Planned entrance option" >
       <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
       <option value="Volunteering as organizer/speaker (free entrance)">{{ i18n "entrance_volunteer" }}</option>

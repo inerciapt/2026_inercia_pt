@@ -37,6 +37,9 @@ other = "Não"
 [form_entrance_label]
 other = "Opção de entrada planeada"
 
+[form_entrance_hint]
+other = "Torna-te associado e apoia a <a href=\"https://inercia.pt/?register&amp;lang=pt\">Inércia</a>!"
+
 [select_placeholder]
 other = "Selecione uma opção"
 

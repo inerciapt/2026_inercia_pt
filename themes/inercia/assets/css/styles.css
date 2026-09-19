@@ -3116,6 +3116,17 @@ code {
 	}
 }
 
+.o-eventform__hint {
+	margin: 0;
+	font-size: calc(var(--fs-s) * .85);
+	line-height: 1.5;
+	opacity: .85;
+}
+
+.o-eventform__hint a {
+	color: var(--form-accent);
+}
+
 .o-eventform__consent {
 	margin: var(--unit-xs) 0 0;
 	font-size: calc(var(--fs-s) * .85);
