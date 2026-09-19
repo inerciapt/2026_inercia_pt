@@ -2965,11 +2965,19 @@ code {
 	margin-block-end: .6em;
 }
 
-.o-eventform__legend + .o-eventform__options {
+.o-eventform__legend + .o-eventform__box {
 	clear: both;
 }
 
+/* Group title sits above the card (like plain-field labels); only the
+   options are boxed. fieldset itself is unboxed layout. */
 .o-eventform__fieldset {
+	border: 0;
+	padding: 0;
+	background: none;
+}
+
+.o-eventform__box {
 	background: var(--form-field-bg);
 	border: 1px solid var(--form-border);
 	border-radius: 12px;
@@ -3074,7 +3082,7 @@ code {
 	color: #ff9d9d;
 }
 
-.o-eventform__fieldset.-invalid {
+.o-eventform__fieldset.-invalid .o-eventform__box {
 	border-color: #ff9d9d;
 }
 

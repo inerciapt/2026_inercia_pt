@@ -251,9 +251,11 @@ checkboxes can't require "at least one checked" on their own.
 
   <fieldset class="o-eventform__field o-eventform__fieldset">
     <legend class="o-eventform__legend">{{ i18n "form_public_consent_legend" }}</legend>
+    <div class="o-eventform__box">
     <div class="o-eventform__options">
       <label class="o-eventform__option"><input type="radio" name="Public listing consent" value="Yes"  /> <span>{{ i18n "consent_yes" }}</span></label>
       <label class="o-eventform__option"><input type="radio" name="Public listing consent" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+    </div>
     </div>
   </fieldset>
 
@@ -271,9 +273,11 @@ checkboxes can't require "at least one checked" on their own.
 
   <fieldset class="o-eventform__field o-eventform__fieldset">
     <legend class="o-eventform__legend">{{ i18n "form_photo_legend" }}</legend>
+    <div class="o-eventform__box">
     <div class="o-eventform__options">
       <label class="o-eventform__option"><input type="radio" name="Photo consent" value="OK with photos"  /> <span>{{ i18n "photo_ok" }}</span></label>
       <label class="o-eventform__option"><input type="radio" name="Photo consent" value="No photos badge" /> <span>{{ i18n "photo_no" }}</span></label>
+    </div>
     </div>
   </fieldset>
 
@@ -294,11 +298,13 @@ checkboxes can't require "at least one checked" on their own.
 
   <fieldset class="o-eventform__field o-eventform__fieldset" id="days-fieldset">
     <legend class="o-eventform__legend">{{ i18n "form_days_legend" }}</legend>
+    <div class="o-eventform__box">
     <div class="o-eventform__options">
       <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
       <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
       <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
       <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>
+    </div>
     </div>
     <input type="hidden" id="days-hidden" name="Days" value="" />
     <p class="o-eventform__error" id="days-error" style="display:none">{{ i18n "days_error" }}</p>
@@ -306,9 +312,11 @@ checkboxes can't require "at least one checked" on their own.
 
   <fieldset class="o-eventform__field o-eventform__fieldset">
     <legend class="o-eventform__legend">{{ i18n "form_sleep_legend" }}</legend>
+    <div class="o-eventform__box">
     <div class="o-eventform__options">
       <label class="o-eventform__option"><input type="radio" name="Sleeping hall" value="Yes"  /> <span>{{ i18n "consent_yes" }}</span></label>
       <label class="o-eventform__option"><input type="radio" name="Sleeping hall" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+    </div>
     </div>
   </fieldset>
 

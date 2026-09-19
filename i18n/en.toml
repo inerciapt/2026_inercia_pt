@@ -44,7 +44,7 @@ other = "Select an option"
 other = "I am volunteering as an organizer / speaker (free entrance)"
 
 [entrance_associate]
-other = "I am an associate of Inércia or SFIA with my yearly quotas paid (12€ or 24€)"
+other = "I am an associate of Inércia or SFIA with my yearly quotas paid"
 
 [entrance_standard]
 other = "Will pay the standard entrance fee (5€ / day)"
