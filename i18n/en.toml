@@ -38,7 +38,7 @@ other = "No"
 other = "Planned entrance option"
 
 [form_entrance_hint]
-other = "Become an associate and support <a href=\"https://inercia.pt/?register&amp;lang=en\">Inércia</a>!"
+other = "Become an associate and support <a href=\"https://inercia.pt/?register&amp;lang=en\" target=\"_blank\" rel=\"noopener\">Inércia</a>!"
 
 [select_placeholder]
 other = "Select an option"
