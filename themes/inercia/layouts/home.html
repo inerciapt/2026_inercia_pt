@@ -65,7 +65,8 @@
                   </div>
                   {{ with $section.button }}
                   <div class="o-copy__buttons">
-                     <a href="{{ .url }}" class="m-button">
+                     {{/* -imageFirst branch: text column sits right, button aligns end -> icon on the left, pointing left */}}
+                     <a href="{{ .url }}" class="m-button -reverse">
                         <span class="m-button__label">{{ .text }}</span>
                         <span class="m-button__icon">
                            <span class="a-icon">

@@ -447,6 +447,10 @@ input:checked~.a-hamburger {
 	margin-inline-end: 1.25ex
 }
 
+.m-button.-reverse .m-button__icon svg {
+	transform: scaleX(-1)
+}
+
 .m-button.-white {
 	--button-background-color: white;
 	--button-text-color: black
@@ -1103,6 +1107,17 @@ thead .o-timetable__cell {
 
 	.b-columns__container .o-copy__buttons {
 		order: 4
+	}
+
+	/* Mirror desktop alignment on mobile: buttons from -imageFirst
+	   (right-aligned) sections hug the right edge, the rest stay left */
+	.b-columns.-imageFirst .o-copy__buttons {
+		justify-content: flex-end
+	}
+
+	/* Text-only buttons on mobile: hide the chevrons */
+	.b-columns__container .m-button__icon {
+		display: none
 	}
 }
 
