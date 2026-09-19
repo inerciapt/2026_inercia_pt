@@ -1109,6 +1109,21 @@ thead .o-timetable__cell {
 		order: 4
 	}
 
+	/* Compact mobile rhythm: the desktop column gap (unit-l) would otherwise
+	   apply between every stacked piece (title/text/image/button), stacking
+	   with legacy in-flow margins into ~50px voids. One uniform 10px gap. */
+	.b-columns__container {
+		gap: var(--unit-s)
+	}
+
+	.b-columns .m-componentHeader {
+		margin-block-end: 0
+	}
+
+	.b-columns__container .o-copy__buttons {
+		margin-block-start: 0
+	}
+
 	/* Mirror desktop alignment on mobile: buttons from -imageFirst
 	   (right-aligned) sections hug the right edge, the rest stay left */
 	.b-columns.-imageFirst .o-copy__buttons {
