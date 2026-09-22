@@ -32,3 +32,7 @@
   flag: "no"
 - name: "Spexzter"
   flag: "no"
+- name: "tft"
+  flag: "no"
+- name: "k-man"
+  flag: "no"
