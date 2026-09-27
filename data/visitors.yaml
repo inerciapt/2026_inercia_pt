@@ -36,3 +36,5 @@
   flag: "no"
 - name: "k-man"
   flag: "no"
+- name: "arcane"
+  flag: "de"
