@@ -44,3 +44,7 @@
   flag: "pl"
 - name: "VARRHO"
   flag: "pt"
+- name: "tarim"
+  flag: "no"
+- name: "Faxe"
+  flag: "de"
