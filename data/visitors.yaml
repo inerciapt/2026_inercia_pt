@@ -48,3 +48,5 @@
   flag: "no"
 - name: "Faxe"
   flag: "de"
+- name: "arroz"
+  flag: "be"
