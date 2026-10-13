@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = true
   # Change to show Partyman button on navbar
   acceptingsubmissions = false
 
-  # Change this mofo to true Saturday morning
+  # Change this mofo to true Friday midday
   wearelive = false
 
   # PostParty button thing
@@ -57,7 +57,7 @@ defaultContentLanguageInSubdir = true
 #      weight = 50
 #    [[languages.pt.menu.main]]
 #      name = "Retrocorner"
-#      url = "/retrocorner/"
+#      url = "://retrocorner.inercia.pt/"
 #      weight = 60
     [[languages.pt.menu.main]]
       name = "Visitar"
@@ -96,7 +96,7 @@ defaultContentLanguageInSubdir = true
 #      weight = 50
 #    [[languages.en.menu.main]]
 #      name = "Retrocorner"
-#      url = "/retrocorner/"
+#      url = "://retrocorner.inercia.pt/"
 #      weight = 60
     [[languages.en.menu.main]]
       name = "Visiting"
