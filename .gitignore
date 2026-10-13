@@ -7,3 +7,5 @@ AGENTS.md
 .npm
 .cache
 .config
+.local
+.opencode.json
