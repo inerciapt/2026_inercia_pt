@@ -2390,39 +2390,27 @@ td h3 {
 	margin-top: var(--gap);
 }
 
-.dropdown {
-	position: relative;
-	display: inline-block;
+.o-pasteditions__label {
+	font-weight: 700;
+	margin-block: 0 var(--unit-s);
 }
 
-.dropdown a {
-	text-decoration: underline;
-}
-
-.dropdown-content {
-	display: none;
-	position: absolute;
-	color: #111314;
-	background-color: #4e9efe;
-	width: 130px;
-	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-	padding: 12px 16px;
-	z-index: 1;
-}
-
-.dropdown-content a {
-	text-decoration: none;
-}
-
-#dd a:hover {
-	color: black;
-}
-
-.dropdown:hover .dropdown-content {
+.o-pasteditions__list {
 	display: flex;
-	gap: 10px;
-	width: 262px;
 	flex-wrap: wrap;
+	gap: var(--unit-s);
+	list-style: none;
+	margin: var(--unit-s) 0 var(--unit-s);
+	padding: 0;
+}
+
+.s-content .o-pasteditions__list {
+	margin-block: var(--unit-s) var(--unit-s);
+}
+
+.o-pasteditions__list .m-button:focus-visible {
+	outline: 2px solid var(--color-wisteria);
+	outline-offset: 2px;
 }
 
 .visitors {
