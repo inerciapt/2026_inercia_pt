@@ -79,7 +79,7 @@ sections:
       &nbsp;
     button:
       text: "Retrocorner"
-      url: "./retrocorner/"        
+      url: "https://retrocorner.inercia.pt/"
     image:
       src: "/images/retrocorner.jpg"
       alt: "Retro Corner"
