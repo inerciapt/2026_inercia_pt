@@ -227,12 +227,10 @@ Tens uma ideia mas dúvidas sobre se fará sentido apresentar na Inércia? Conta
 
 ## Shader Royale
 
-Pela quinta vez desde a sua criação na Inércia iremos ter mais uma edição do evento com o record mundial da programação simultânea de shaders ao vivo: o Shader Royale.
-
-Com participantes locais e remotamente ligados um pouco por todo o mundo (no ano passado tivemos 33 participantes).
+Programação de shader code ao vivo com um DJ de fundo. Com participantes locais e remotos um pouco por todo o mundo, juntem-se ao evento e ajudem-nos a recuperar o título do record mundial da programação simultânea de shaders ao vivo.
 
 Estás interessado em participate? Só precisas de alguma experiência a programa shaders, da versão mais recente do Bonzomatic, de ler a página de [como participar no shader royale](./shader_royale) e de avisar psenough no discord para confirmares a tua presença na sessão.
 
-No ano passado foi assim:
+O evento tem este aspecto:
 
 {{< youtube -Iqov7pkNUQ >}}
