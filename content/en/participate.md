@@ -16,6 +16,8 @@ Do you create art with computers? We want you at Inércia presenting it! There a
  * [Lightning Talks](#lightning-talks)
  * [Shader Royale](#shader-royale)
 
+All categories accept remote partcipation except the Lightning Talks.
+
 ## General Rules
 
 ### Original content
