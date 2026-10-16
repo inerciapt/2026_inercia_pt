@@ -197,12 +197,10 @@ Have an idea but doubts if it makes sense to present it at Inércia? Get in touc
 
 ## Shader Royale
 
-For the 5th time at Inércia since it's inception we will be hosting the Shader Royale.
-
-With people local and all over the world joining to participate on the largest simultaneous live shader coding event of the world.
+Live shader coding session to a banger DJ set open to local and remote participation. Come help us reclaim the title of the largest simultaneous live shader coding event of the world.
 
 All you need is some experience in shader coding, the latest version of Bonzomatic, read the [how to join](./shader_royale) page and ping psenough on discord a confirmation that you are participating.
 
-This is what it looked like last year:
+This is what it looks like:
 
 {{< youtube -Iqov7pkNUQ >}}
