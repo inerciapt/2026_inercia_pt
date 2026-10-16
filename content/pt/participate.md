@@ -16,6 +16,8 @@ Crias arte com computadores? Queremos que a apresentes na Inércia! Existem vár
  * [Apresentações Relâmpago](#apresentações-relâmpago)
  * [Shader Royale](#shader-royale)
 
+Todas as categorias aceitam participação remota excepto as Apresentações Relâmpago.
+
 ## Regras Gerais
 
 ### Conteúdo Original
