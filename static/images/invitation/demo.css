@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'Fake Receipt';
+    src: url('fakereceipt-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background: black;
+}
+
+#demo-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: none;
+    overflow: hidden;
+}
+
+canvas {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+
+.progress-bar {
+    display: block;
+    position: relative;
+    margin: 30vh auto 5vh auto;
+    height: 2em;
+    width: 25rem;
+    background-color: black;
+    border: 2px solid #F2405E;
+    border-radius: 20px;
+    padding: 2px;
+}
+.progress-bar span {
+    position: absolute;
+    display: block;
+    height: 2em;
+    background-color: #F2405E;
+    border-radius: 20px;
+    min-width: 2em;
+}
+.progress-text {
+    text-align: center;
+    color: #F2405E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    margin-top: 2em;
+}
+.progress-text a {
+    color: #c57ef5;
+}
+
+button {
+    display: block;
+    margin: 30vh auto 5vh auto;
+    cursor: pointer;
+    padding: 25px 30px;
+    background-color: black;
+    color: #F2405E;
+    border: 2px solid #F2405E;
+    border-radius: 20px;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    -moz-transition: 0.5s;
+    transition: 0.5s;
+    letter-spacing: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    width: 25rem;
+}
+button:hover {
+    background: #F2405E;
+    color: #050801;
+    -webkit-box-shadow: 0 0 5px #F2405E, 0 0 25px #F2405E, 0 0 50px #F2405E, 0 0 200px #F2405E;
+    -moz-box-shadow: 0 0 5px #F2405E, 0 0 25px #F2405E, 0 0 50px #F2405E, 0 0 200px #F2405E;
+    box-shadow: 0 0 5px #F2405E, 0 0 25px #F2405E, 0 0 50px #F2405E, 0 0 200px #F2405E;
+}
+button:active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+.options {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 23rem;
+    margin: auto;
+    color: #F2405E;
+    line-height: 2em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.options span {
+    padding-right: 0.5em;
+}
+.options label {
+    padding: 0 0.5em 0 0.15em;
+}
+.options input {
+    accent-color: #F2405E;
+}
+.options input:not(:checked) {
+    opacity: 0.3;
+}
+#subtitles {
+    color: white;
+    display: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    text-shadow: black 3px 3px 4px, black 0 0 6px;
+    text-align: center;
+    width: 100%;
+}
+.speaker-evilbot {
+    color: lime;
+    font-family: 'Fake Receipt', 'Fixedsys', 'Terminal', monospace;
+}
+.speaker-ibor {
+    color: cyan;
+}
+.speaker-song {
+    color: yellow;
+    font-style: italic;
+}
+.speaker-ewerk {
+    color: white;
+}
+.hidden {
+    visibility: hidden;
+}
