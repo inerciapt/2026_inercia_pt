@@ -25,7 +25,7 @@ A comunidade da demoscene organiza regularmente eventos para competir e socializ
 
 A Inércia na sua raiz é uma demoparty mas também convida outras culturas ligadas à arte e fabricação digital a participar, sendo definida como um festival de arte digital e música.
 
-{{< youtube m3vunjzAms8 >}}
+{{< youtube 4kPgw-MyPhw >}}
 
 ## Entrada
 

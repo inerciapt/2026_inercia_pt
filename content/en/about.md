@@ -25,7 +25,7 @@ Demoscene community organizes regular events to compete and socialize called dem
 
 Inércia is a demoparty, but also embraces other digital art cultures, hence being defined as a digital arts and music festival.
 
-{{< youtube m3vunjzAms8 >}}
+{{< youtube xorEk6uT5Zg >}}
 
 ## Ticket Options
 
