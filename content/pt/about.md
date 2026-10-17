@@ -11,7 +11,7 @@ Este salão mítico oferece-nos espaço para até 150 visitantes (incluindo luga
 
 ## Video convite para a Inércia 2026:
 
-{{< youtube kRxPyPyCyxE >}}
+{{< youtube PMuBCSWmEks >}}
 
 ## Video reportagem da Inércia 2024:
 

@@ -11,7 +11,7 @@ This mythical hall provides us with room for up to 150 visitors (including dedic
 
 ## Invitation video of Inércia 2026:
 
-{{< youtube kRxPyPyCyxE >}}
+{{< youtube PMuBCSWmEks >}}
 
 ## Video report of Inércia 2024:
 
