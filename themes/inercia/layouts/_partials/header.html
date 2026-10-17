@@ -57,25 +57,36 @@
 					</li>
 					{{ end }}
 					
-				   {{/* Robust Hugo language switcher using merged translations */}}
-				   {{ $bookTranslatedOnly := default false .Site.Params.BookTranslatedOnly }}
-				   {{ $translations := dict }}
-				   {{ if (eq $bookTranslatedOnly false ) }}
-					 {{ range .Site.Home.Translations }}
-					   {{ $translations = merge $translations (dict .Language.Lang .) }}
-					 {{ end }}
-				   {{ end }}
-				   {{ range .Translations }}
-					 {{ $translations = merge $translations (dict .Language.Lang .) }}
-				   {{ end }}
+					{{/* Language switcher using merged translations */}}
+					{{ $currentLang := .Site.Language.Lang }}
+					{{ $bookTranslatedOnly := default false .Site.Params.BookTranslatedOnly }}
+					{{ $translations := dict }}
+					{{ if (eq $bookTranslatedOnly false) }}
+						{{ range .Site.Home.Translations }}
+							{{ $translations = merge $translations (dict .Language.Lang .) }}
+						{{ end }}
+					{{ end }}
+					{{ range .Translations }}
+						{{ $translations = merge $translations (dict .Language.Lang .) }}
+					{{ end }}
+					{{ $translations = merge $translations (dict $currentLang .) }}
 
-				   <div class="b-siteNav__lang-row">
-					 {{ range .Site.Languages }}{{ with index $translations .Lang }}
-					   <a href="{{ cond hugo.IsMultihost .Permalink .RelPermalink }}" class="b-siteNav__lang-flag" aria-label="{{ .Language.LanguageName }}">
-						 <img src="/images/_flag_{{ .Language.Lang }}.webp" alt="{{ .Language.LanguageName }}" width="40px" height="auto" />
-					   </a>
-					 {{ end }}{{ end }}
-				   </div>
+					<li class="b-siteNav__item b-siteNav__lang-row">
+						{{ range .Site.Languages }}
+							{{ $lang := . }}
+							{{ with index $translations $lang.Lang }}
+								{{ if eq $lang.Lang $currentLang }}
+								<span class="b-siteNav__lang-flag -current" aria-current="true" title="{{ $lang.LanguageName }}" aria-label="{{ $lang.LanguageName }}">
+									<img src="/images/_flag_{{ $lang.Lang }}.webp" alt="{{ $lang.LanguageName }}" width="28">
+								</span>
+								{{ else }}
+								<a href="{{ cond hugo.IsMultihost .Permalink .RelPermalink }}" class="b-siteNav__lang-flag" hreflang="{{ $lang.Lang }}" title="{{ $lang.LanguageName }}" aria-label="{{ $lang.LanguageName }}">
+									<img src="/images/_flag_{{ $lang.Lang }}.webp" alt="{{ $lang.LanguageName }}" width="28">
+								</a>
+								{{ end }}
+							{{ end }}
+						{{ end }}
+					</li>
 				</ul>
 			</div>
 		</nav>

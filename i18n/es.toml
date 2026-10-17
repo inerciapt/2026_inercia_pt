@@ -1,0 +1,98 @@
+[live-banner]
+other = "¡Estamos en directo!"
+
+[live-banner-extra]
+other = "¡No te pierdas ni un momento del evento! Lo estamos transmitiendo en directo para que puedas acompañarnos desde cualquier lugar. Elige uno de los servicios de streaming para unirte a la transmisión en vivo y formar parte de la emoción en tiempo real."
+
+[live-banner-extra-2]
+other = "¡Mantente conectado y vive el evento mientras sucede!"
+
+[form_email_label]
+other = "Email *"
+
+[form_thanks]
+other = "https://2026.inercia.pt/es/registercomplete"
+
+[form_consent]
+other = "Al hacer clic en el botón, aceptas que los datos introducidos pasen por https://formsubmit.co y terminen en una cuenta de correo de la Associação Inércia"
+
+[form_name_label]
+other = "Nombre"
+
+[form_nickname_label]
+other = "Apodo"
+
+[form_nationality_label]
+other = "Nacionalidad"
+
+[form_public_consent_legend]
+other = "¿Podemos publicar tu apodo y nacionalidad en nuestra web?"
+
+[consent_yes]
+other = "Sí"
+
+[consent_no]
+other = "No"
+
+[form_entrance_label]
+other = "Opción de entrada prevista"
+
+[form_entrance_hint]
+other = "¡Conviértete en socio y apoya a <a href=\"https://inercia.pt/?register&amp;lang=es\" target=\"_blank\" rel=\"noopener\">Inércia</a>!"
+
+[select_placeholder]
+other = "Seleccione una opción"
+
+[entrance_volunteer]
+other = "Soy voluntario como organizador / ponente (entrada gratuita)"
+
+[entrance_associate]
+other = "Soy asociado de Inércia o SFIA con las cuotas anuales pagadas"
+
+[entrance_standard]
+other = "Voy a pagar la tarifa de entrada estándar (5€ / día)"
+
+[entrance_supporter]
+other = "Voy a pagar la tarifa de apoyo al evento (100€)"
+
+[entrance_not_attending]
+other = "No pienso asistir y no debería estar rellenando este formulario."
+
+[form_photo_legend]
+other = "Consentimiento de fotografías"
+
+[photo_ok]
+other = "No me importa que me hagan fotos para promoción y documentación"
+
+[photo_no]
+other = 'Necesitaré una de esas chapas de "por favor no me hagan fotos"'
+
+[form_tshirt_label]
+other = "Talla de camiseta"
+
+[tshirt_none]
+other = "No quiero camiseta / prefiero no decirlo"
+
+[form_days_legend]
+other = "¿Qué días planeas asistir? *"
+
+[day_friday]
+other = "Viernes, 4 de diciembre"
+
+[day_saturday]
+other = "Sábado, 5 de diciembre"
+
+[day_sunday]
+other = "Domingo, 6 de diciembre"
+
+[day_not_attending]
+other = "En realidad no puedo asistir en persona, no debería haberme registrado aquí."
+
+[days_error]
+other = "Por favor seleccione al menos una opción."
+
+[form_sleep_legend]
+other = "Tenemos un pabellón para dormir disponible en el local (el invierno puede ser frío, ven preparado). ¿Planeas dormir allí?"
+
+[submit_button]
+other = "Enviar"

@@ -106,3 +106,42 @@ defaultContentLanguageInSubdir = true
       name = "Contact"
       url = "/en/contact/"
       weight = 80
+  [languages.es]
+    languageName = 'Español'
+    weight = 3
+    title = 'Inércia 2026'
+    languageCode = 'es-ES'
+    contentDir = 'content/es'
+    params.description = "Inércia 2026 - Festival de Artes Digitales en Portugal"
+#    [[languages.es.menu.main]]
+#      name = "Post Party"
+#      url = "/es/postparty/"
+#      weight = 10
+    [[languages.es.menu.main]]
+      name = "Sobre"
+      url = "/es/about/"
+      weight = 20
+    [[languages.es.menu.main]]
+      name = "Ubicación"
+      url = "/es/location/"
+      weight = 30
+    [[languages.es.menu.main]]
+      name = "Participar"
+      url = "/es/participate/"
+      weight = 40
+#    [[languages.es.menu.main]]
+#      name = "Programa"
+#      url = "/es/schedule/"
+#      weight = 50
+#    [[languages.es.menu.main]]
+#      name = "Retrocorner"
+#      url = "://retrocorner.inercia.pt/"
+#      weight = 60
+    [[languages.es.menu.main]]
+      name = "Visitar"
+      url = "/es/visiting/"
+      weight = 70
+    [[languages.es.menu.main]]
+      name = "Contacto"
+      url = "/es/contact/"
+      weight = 80

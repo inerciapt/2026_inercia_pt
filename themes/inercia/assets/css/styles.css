@@ -873,6 +873,39 @@ h6 {
 	pointer-events: none
 }
 
+.b-siteNav__lang-row {
+	display: flex;
+	align-items: center;
+	gap: calc(var(--unit-s) / 2);
+}
+
+.b-siteNav .b-siteNav__lang-flag {
+	display: inline-flex;
+	line-height: 0;
+	border-radius: 3px;
+	opacity: .5;
+	transition: opacity .25s ease-out;
+}
+
+@media (hover:hover) {
+	.b-siteNav a.b-siteNav__lang-flag:hover {
+		opacity: 1
+	}
+}
+
+.b-siteNav .b-siteNav__lang-flag.-current {
+	opacity: 1;
+	cursor: default;
+	pointer-events: none
+}
+
+.b-siteNav .b-siteNav__lang-flag img {
+	width: 28px;
+	height: auto;
+	border-radius: 3px;
+	vertical-align: middle
+}
+
 #container {
 	position: relative;
 	width: var(--container-max-width);
@@ -946,6 +979,10 @@ h6 {
 
 	.b-siteNav__item:first-child {
 		display: block
+	}
+
+	.b-siteNav__lang-row {
+		margin-block-start: var(--unit-s)
 	}
 
 	#live-banner {
