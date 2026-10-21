@@ -37,10 +37,10 @@
   url: "https://realizasom.com/"
   logo: "images/svg/realiza_som.svg"
 
-- name: "Arte & Impacto"
-  tier: "silver"
-  url: "https://www.arteeimpacto.com/"
-  logo: "images/svg/arteeimpacto.svg"
+#- name: "Arte & Impacto"
+#  tier: "silver"
+#  url: "https://www.arteeimpacto.com/"
+#  logo: "images/svg/arteeimpacto.svg"
 
 - name: "SceneSat"
   tier: "silver"
