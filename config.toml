@@ -51,10 +51,10 @@ defaultContentLanguageInSubdir = true
       name = "Participar"
       url = "/pt/participate/"
       weight = 40
-#    [[languages.pt.menu.main]]
-#      name = "Programa"
-#      url = "/pt/schedule/"
-#      weight = 50
+    [[languages.pt.menu.main]]
+      name = "Programa"
+      url = "/pt/schedule/"
+      weight = 50
 #    [[languages.pt.menu.main]]
 #      name = "Retrocorner"
 #      url = "://retrocorner.inercia.pt/"
@@ -90,10 +90,10 @@ defaultContentLanguageInSubdir = true
       name = "Participate"
       url = "/en/participate/"
       weight = 40
-#    [[languages.en.menu.main]]
-#      name = "Schedule"
-#      url = "/en/schedule/"
-#      weight = 50
+    [[languages.en.menu.main]]
+      name = "Schedule"
+      url = "/en/schedule/"
+      weight = 50
 #    [[languages.en.menu.main]]
 #      name = "Retrocorner"
 #      url = "://retrocorner.inercia.pt/"
@@ -129,10 +129,10 @@ defaultContentLanguageInSubdir = true
       name = "Participar"
       url = "/es/participate/"
       weight = 40
-#    [[languages.es.menu.main]]
-#      name = "Programa"
-#      url = "/es/schedule/"
-#      weight = 50
+    [[languages.es.menu.main]]
+      name = "Programa"
+      url = "/es/schedule/"
+      weight = 50
 #    [[languages.es.menu.main]]
 #      name = "Retrocorner"
 #      url = "://retrocorner.inercia.pt/"

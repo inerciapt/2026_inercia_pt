@@ -1,6 +1,6 @@
 ---
 title: "Programa"
-summary: "6-7 de Dezembro 2026"
+summary: "4-6 de Dezembro 2026"
 
 #
 # Notes for anyone editing:
@@ -11,87 +11,50 @@ summary: "6-7 de Dezembro 2026"
 # if you need something added changed, please ask me first
 #
 
+#| {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}DEMOSHOW{{</cl1>}} | {{< details summary="Mostra de demos" >}}
+#![image](/images/tixl.png)
+#[TiXL](https://tixl.app) é uma ferramenta gratuita de código aberto para gerar efeitos visuais e animações gráficas para instalações, performances ao vivo e VJing. 
+#{{< /details >}}| 
+
 ---
 
-<!-- ## Este programa não é final. -->
+## Este programa não é final e está sujeito a alterações.
 
 > {{< jtzr-ui >}}**(Horas apresentadas em UTC+0)**{{< /jtzr-ui >}}
 
-<!--
-### 📅 Quarta · 34 de Novembro
-
-|**Fast Compo Theme**|||
-|:-:|:-:|:-|
-| 13:37 | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Veja os detalhes da competição rápida" >}}
-For 2026 the Fast Competition will be 'babanas and potatoes'
-multiline shenanigans
-
-You can [download assets here](https://drive.google.com/somethingsomethingfails)
-
-does this even work?
-{{< /details >}}| 
--->
-
-### 📅 {{< jtzr-anchor-date datetime="2026-12-05" >}}Sexta · 5 de Dezembro{{< /jtzr-anchor-date >}}
-
-**Preparty @ Bar A Cerca**
-|:-:|:-:|:-|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | rc55| 
-
-### 📅 {{< jtzr-anchor-date datetime="2026-12-06" >}}Sábado · 6 de Dezembro{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-04" >}}Sexta · 4 de Dezembro{{< /jtzr-anchor-date >}}
 
 | | | |
 |:-:|:-:|:-|
-| {{<jtzr-time>}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Abertura de Portas| 
-| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}DEMOSHOW{{</cl1>}} | Retrospetiva de demos |
-| {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimónia de Abertura|
-| {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Workshop de TiXL" >}}
-![image](/images/tixl.png)
-[TiXL](https://tixl.app) é uma ferramenta gratuita de código aberto para gerar efeitos visuais e animações gráficas para instalações, performances ao vivo e VJing. 
-{{< /details >}}| 
-| {{< jtzr-time >}}16:30{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Apresentações relâmpago|
-| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (com DJ Tina Stormcaller) |
-| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}EVENTO{{</cl1>}} | Sessão de improvisação musical aberta|
+| {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Abertura de portas|
+| {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DEMOSHOW{{</cl1>}} | Mostra de Demos| 
+| {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimónia de Abertura|
+| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Seminário / Apresentação a confirmar|
+| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (com DJ Tina Stormcaller)|
+| {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Liveact a confirmar|
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | DJ Set a confirmar|
 
-**Afterparty @ Bar A Cerca**
+### 📅 {{< jtzr-anchor-date datetime="2026-12-05" >}}Sábado · 5 de Dezembro{{< /jtzr-anchor-date >}}
+
+| | | |
 |:-:|:-:|:-|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="bacter" >}}
-![image](/images/bacter.jpg)
-Bacter vai nos servir umas lambidelas de disco e bombas de synthwave durante a noite enquanto disfrutamos da nossa cerveja ou dos nossos cocktails doces (e amargos).
-Through the evening for you to enjoy sweet (and sour) cocktails and beer.
-(nenhuma IA foi usada na escrita deste texto)
-{{< /details >}}| 
-| {{< jtzr-time >}}02:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Varrho |
+| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart e gamedev no Gameboy (Bad_Dad)| 
+| {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Seminário / Apresentação a confirmar |
+| {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}MESA REDONDA{{</cl1>}} | Mesa redonda sobre o uso da IA na arte digital| 
+| {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra de Música |
+| {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra de Gráficos |
+| {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra de arte com IA|
+| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra de Apresentações Relâmpago & Wild|
+| {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra de Size Coding|
+| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | Competição de Demos |
+| {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Varrho + Stereokollektor |
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | DJ Set a confirmar|
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-07" >}}Domingo · 7 de Dezembro{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2026-12-06" >}}Domingo · 6 de Dezembro{{< /jtzr-anchor-date >}}
 
 | | | |
 |:-:|:-:|:-|
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Pequeno Almoço com Panquecas |
-| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PRAZO{{</cl1>}} | Prazo limite para a submissão de produções |
-| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}DEMOSHOW{{</cl1>}} | Retrospetiva de demos|
+| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimónia de encerramento e entrega de prémios|
 | {{< jtzr-time >}}12:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Almoço Comunitário|
-| {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria Gráficos |
-| {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria Música |
-| {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria Wild|
-| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria AI|
-| {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria Size Coding|
-| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | Competição de Demos |
-| {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | {{< details summary="WAKE" >}}
-![image](/images/wake.jpeg)
-WAKE é um projecto audiovisual ao vivo de Berlin. Lena Kilkka [/lucid/](https://www.youtube.com/playlist?list=PLTkAm-uTA4HWl_eBBT1ecf3mEmfqZAMxX) e Thomas Mann [/pixtur/](https://www.youtube.com/user/ThePixtur) misturam uma fusão de sons originais, hipnóticos e cinemáticos, programados ao vivo com visuais em tempo real da demoscene. Todos os visuais são criados e performados utilizando [TiXL](https://tixl.app/) uma ferramenta e motor 3D de código aberto que os próprios criaram e desenvolvem activamente.
-{{< /details >}}| 
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Evento de encerramento e entrega de prémios|
-
-**Afterparty @ Bar A Cerca** 
-|:-:|:-:|:-|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Tina Stormcaller & amigos" >}}
-![image](/images/tina.jpg)
-Tina Stormcaller é uma DJ de radio independente da costa sul do reino unido, traz-nos aqui uma mistura de deep e tech house.
-{{< /details >}}| 
-
-### 📅 {{< jtzr-anchor-date datetime="2026-12-08" >}}Segunda · Dezembro 8 (feriado nacional){{< /jtzr-anchor-date >}}
-
-||||
-|:-:|:-:|:-|
-| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}}| Portas reabrem para arrumar equipamento|
+| {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Portas Encerram|

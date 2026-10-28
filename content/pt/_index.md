@@ -11,7 +11,7 @@ sections:
     content: |
       No coração de Almada, com espaço para 150 visitantes.
 
-      Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção Full HD e sistema de som adequado para mostrares ao mundo os teus projectos de arte digital.
+      Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção Full HD e sistema de som adequado para mostrares ao mundo os teus projectos de arte digital em alta qualidade.
     button:
       text: "Local & Viagem"
       url: "./location/"
@@ -37,7 +37,7 @@ sections:
       
       Vamos também esperar bom tempo para aproveitar a bela cidade de Almada, assim haja tempo entre as variadas atividades do Festival.
 
-      Não percas mais tempo, começa já a trabalhar na tua produção e dá-nos um bocado do teu tempo em dezembro para visitar a Inércia!
+      Não percas mais tempo, começa já a trabalhar na tua produção e dá-nos um bocado do teu tempo em Dezembro para visitar a Inércia!
     image:
       src: "/images/1337_inercia23.webp"
       alt: "Wrist watch showing 13:37 and Inércia 2023 logo"
@@ -55,7 +55,7 @@ sections:
       * Competição de Demos, o formato clássico da demoscene onde o voto do público determina o vencedor.
       * Mostras de música e gráficos, para mostrares os teus trabalhos originais sem vencedores nem vencidos.
       * Apresentações Relâmpago, apresentações de 15 minutos sobre algum tema ou projecto relacionado com a criação de arte digital.
-      * Sessões de programação de gráficos ao vivo e jam musical conjunta.
+      * Sessões de programação de gráficos e música ao vivo.
       * Seminários e instalações, estamos abertos a acolher as tuas propostas, envia-nos um email.
     button:
       text: "Participa"
@@ -74,7 +74,7 @@ sections:
   - overline: "Explora"
     title: "Retro Corner"
     content: |
-      Explora o Retro Corner, um canto repleto de computadores e consolas vintage onde podes aprender mais sobre as máquinas que tiveste (ou que nunca tiveste mas gostarias de ter tido). Aprende mais sobre os limites delas, vê demonstrações do que elas são capazes, aproveita para jogar alguns jogos e falar com pessoas que te conseguem ajudar a restaurar algumas das máquinas antigas que possas ter guardadas na arrecadação.
+      Explora o Retro Corner, um canto repleto de computadores e consolas vintage onde podes aprender mais sobre as máquinas que tiveste (ou que gostarias de ter tido). Aprende mais sobre os limites delas, vê demonstrações do que elas são capazes, aproveita para jogar alguns jogos e falar com pessoas que te conseguem ajudar a restaurar algumas das máquinas antigas que possas ter guardadas na arrecadação.
 
       &nbsp;
     button:
@@ -94,7 +94,7 @@ sections:
   - overline: "Assiste"
     title: "Shader Royale"
     content: |
-      Assiste em directo ao evento de programação de shaders com o record do maior número de participantes simultâneos do mundo, organizado pelo quinto ano consecutivo na Inércia. Todos os anos temos pessoas espalhadas um pouco por todo o mundo que ficam acordadas até às 5 da manha para poder participar no Shader Royale ao som do nosso DJ de serviço. Vais perder o evento?
+      Assiste em directo ao evento de programação de shaders com o record do maior número de participantes simultâneos do mundo. Todos os anos temos pessoas espalhadas um pouco por todo o mundo que ficam acordadas até às 5 da manha para poder participar no Shader Royale ao som do nosso DJ de serviço. Vais perder o evento?
     image:
       src: "/images/_DSC2420-1920.webp"
       alt: "Shader Royale"
@@ -109,8 +109,8 @@ sections:
   - overline: "Conhece"
     title: "Seminários e Instalações"
     button:
-      text: "Regista-te"
-      url: "./visiting/"
+      text: "Programa"
+      url: "./schedule/"
     content: |
       Fica atento às diversas apresentações, instalações, mesas redondas e workshops que irão decorrer durante o evento. Cobrindo uma diversidade de tópicos ligados à demoscene, movimento maker, fabricação digital e os vários tipos de arte digital. Gostarias de apresentar algo? Entra em contacto, diz-nos o que tens em mente para tentarmos encaixar no nosso hórario.
 

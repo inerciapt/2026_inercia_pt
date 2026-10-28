@@ -11,7 +11,7 @@ sections:
     content: |
       En el corazón de Almada, con espacio para 150 visitantes.
 
-      Esta sala centenaria estará equipada con mesas, sillas, iluminación, proyección Full HD y un sistema de sonido adecuado para mostrar al mundo tus proyectos de arte digital.
+      Esta sala centenaria estará equipada con mesas, sillas, iluminación, proyección Full HD y un sistema de sonido adecuado para mostrar al mundo tus proyectos de arte digital en alta calidad.
     button:
       text: "Local y Viaje"
       url: "./location/"
@@ -37,7 +37,7 @@ sections:
       
       También esperaremos buen tiempo para disfrutar de la bonita ciudad de Almada, siempre que haya tiempo entre las variadas actividades del Festival.
 
-      No pierdas más tiempo, empieza ya a trabajar en tu producción y danos un poco de tu tiempo en diciembre para visitar la Inércia.
+      No pierdas más tiempo, empieza ya a trabajar en tu producción y danos un poco de tu tiempo en Diciembre para visitar la Inércia.
     image:
       src: "/images/1337_inercia23.webp"
       alt: "Reloj de pulsera mostrando 13:37 y el logo de Inércia 2023"
@@ -55,7 +55,7 @@ sections:
       * Competición de Demos, el formato clásico de la demoscene donde el voto del público determina al ganador.
       * Muestras de música y gráficos, para mostrar tus trabajos originales sin ganadores ni vencidos.
       * Presentaciones Relámpago, presentaciones de 15 minutos sobre algún tema o proyecto relacionado con la creación de arte digital.
-      * Sesiones de programación de gráficos en vivo y jam musical conjunta.
+      * Sesiones de programación de gráficos y musica en vivo.
       * Seminarios e instalaciones, estamos abiertos a acoger tus propuestas, envíanos un email.
     button:
       text: "Participa"
@@ -74,7 +74,7 @@ sections:
   - overline: "Explora"
     title: "Retro Corner"
     content: |
-      Explora el Retro Corner, un rincón lleno de ordenadores y consolas vintage donde puedes aprender más sobre las máquinas que tuviste (o que nunca tuviste pero te habría gustado tener). Aprende más sobre sus límites, ve demos de lo que son capaces, aprovecha para jugar algunos juegos y habla con personas que pueden ayudarte a restaurar algunas de las máquinas antiguas que puedas tener guardadas en el trastero.
+      Explora el Retro Corner, un rincón lleno de ordenadores y consolas vintage donde puedes aprender más sobre las máquinas que tuviste (o que te habría gustado tener). Aprende más sobre sus límites, ve demos de lo que son capaces, aprovecha para jugar algunos juegos y habla con personas que pueden ayudarte a restaurar algunas de las máquinas antiguas que puedas tener guardadas en el trastero.
 
       &nbsp;
     button:
@@ -94,7 +94,7 @@ sections:
   - overline: "Asiste"
     title: "Shader Royale"
     content: |
-      Asiste en directo al evento de programación de shaders con el récord del mayor número de participantes simultáneos del mundo, organizado por quinto año consecutivo en la Inércia. Cada año tenemos personas repartidas un poco por todo el mundo que se quedan despiertas hasta las 5 de la mañana para poder participar en el Shader Royale al son de nuestro DJ de servicio. ¿Vas a perderte el evento?
+      Asiste en directo al evento de programación de shaders con el récord del mayor número de participantes simultáneos del mundo. Cada año tenemos personas repartidas un poco por todo el mundo que se quedan despiertas hasta las 5 de la mañana para poder participar en el Shader Royale al son de nuestro DJ de servicio. ¿Vas a perderte el evento?
     image:
       src: "/images/_DSC2420-1920.webp"
       alt: "Shader Royale"
@@ -109,8 +109,8 @@ sections:
   - overline: "Conoce"
     title: "Seminarios e Instalaciones"
     button:
-      text: "Regístrate"
-      url: "./visiting/"
+      text: "Programa"
+      url: "./schedule/"
     content: |
       Estate atento a las diversas presentaciones, instalaciones, mesas redondas y workshops que se desarrollarán durante el evento. Cubriendo una diversidad de temas ligados a la demoscene, movimiento maker, fabricación digital y los varios tipos de arte digital. ¿Te gustaría presentar algo? Ponte en contacto, dinos qué tienes en mente para intentar encajarlo en nuestro horario.
 
