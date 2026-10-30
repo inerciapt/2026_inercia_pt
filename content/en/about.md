@@ -33,6 +33,8 @@ Free entrance to our volunteer organizers or associates of [Associação Inérci
 
 10€ entrance fee to other attendants (5€ each day).
 
+Sunday morning is free entrance.
+
 Due to venue capacity limitations we have a pre-registration system requirement, you can read more about it at [this other page](./visiting/).
 
 ## Rules of Conduct
@@ -41,9 +43,9 @@ The organization reserves the right to exclude anyone from attending the event t
 We will enforce this only when dealing with complaints of discrimination or unwanted indoctrination / rhetoric speech regarding any discriminatory subjects (racism, bygotry, mysogny, religious or political hate speech, conspiracy theories, etc). Any physical or verbal threat / harrassment of our volunteer organizing staff or visitors will not be tolerated. 
 Anyone found breaking Portuguese law will be turned over to local authorities.
 
-## Press Pack
+<!-- ## Press Pack
 
-We have a press pack [available for download](/Inercia2026PressPack.zip).
+We have a press pack [available for download](/Inercia2026PressPack.zip). -->
 
 ## General contact
 

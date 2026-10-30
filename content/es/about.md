@@ -33,15 +33,17 @@ Entrada gratuita para asociados de la [Associação Inércia](https://inercia.pt
 
 10€ para el resto de interesados (5€ cada día).
 
+Mañana de Domingo entrada gratuita.
+
 Debido a las limitaciones de capacidad, tenemos un sistema de pre-inscripción. Más información [en esta página](./visiting/).
 
 ## Normas de Conducta
 
 La organización se reserva el derecho de excluir del evento a cualquier persona que pueda estar causando disturbios o haya demostrado ese tipo de comportamientos en el pasado, al amparo de la ley de organización de eventos privados. Solo lo haremos cuando recibamos quejas de discriminación o doctrinamiento indeseado / discurso retórico sobre cualquier tema discriminatorio (racismo, intolerancia, misoginia, discurso de odio religioso o político, teorías de la conspiración, etc.). No se tolerarán amenazas físicas o verbales / acoso a nuestros voluntarios organizadores o visitantes. Quien sea atrapado infringiendo la ley portuguesa será entregado a las autoridades locales.
 
-## Dossier de Prensa
+<!-- ## Dossier de Prensa
 
-Tenemos un dossier de prensa [disponible para descarga](/Inercia2026PressPack.zip).
+Tenemos un dossier de prensa [disponible para descarga](/Inercia2026PressPack.zip). -->
 
 ## Contacto General
 
