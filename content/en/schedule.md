@@ -63,7 +63,10 @@ Generative AI is not allowed in most competitions at the majority of the Demosce
 {{< /details >}}|
 | | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Sunday · 6 December{{< /jtzr-anchor-date-colspan >}}
-| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Pancake Breakfast party |
+| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="Pancake Breakfast party" >}}
+![Pancakes](/image/DSC05470.webp)
+One of the staples of Inércia is our Pancake Party, organized by Sara and Manuel. Each pancake is branded with our logo - somehow, it tastes better! - and there will be an assortiment of toppings and jams for you to have a glorious breakfast. Coffee and tea included!
+{{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Closing Ceremony|
 | {{< jtzr-time >}}12:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Community Lunch|
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors Close|
