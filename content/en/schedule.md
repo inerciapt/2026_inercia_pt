@@ -25,19 +25,19 @@ summary: "4-6 December 2026"
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony|
 | {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Shaders GLSL (Hugo "Alien" Lino)|
 | {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | TIC-80 Tooling (Carl "tenfour" Corcoran)|
-| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (with DJ Tina Stormcaller)|
+| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart & gamedev on Gameboy (Bad_Dad)| 
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions|
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | Seminar TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Roundtable on the use of AI in digital art| 
-| {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Music Showcase|
-| {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Graphics Showcase|
-| {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Made with IA Showcase|
-| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Lighting Talks & Wild Showcase|
-| {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Size Coding Showcase|
-| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETITION{{</cl1>}} | Demos competition (main event)|
+| {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Music Showcase](./participate/#music-showcase)|
+| {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Graphics Showcase](./participate/#graphics-showcase)|
+| {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Made with IA Showcase](./participate/#genai-showcase)|
+| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Lighting Talks](./participate/#lightning-talks) & [Wild Showcase](./participate/#wild-showcase)|
+| {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Size Coding Showcase](./participate/#size-coding-showcase)|
+| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETITION{{</cl1>}} | [Demos competition (main event)](./participate/#combined-demo-competition)|
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Varrho + Stereokollektor |
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (Itzik "bacter" Shemesh)|
 | | | |
