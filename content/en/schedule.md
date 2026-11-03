@@ -23,13 +23,13 @@ summary: "4-6 December 2026"
 | {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors Open|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DEMOSHOW{{</cl1>}} | Screening of older Demos| 
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony|
-| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Shaders GLSL (Hugo "Alien" Lino)" >}}
+| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Shaders GLSL (Hugo 'Alien' Lino)" >}}
 ![Bonzomatic](/images/bonzo.webp)
 GLSL (OpenGL Shading Language) is a programming language used to write code that runs on the graphics processing unit (GPU). It can then render graphics in 2D and 3D, making the perfect learning platform to quickly show beautiful math based pictures in real time.
 
 [Hugo "alien" Lino](https://demozoo.org/sceners/108887/) is a portuguese coder living in Vienna, Austria and part of Eucalyptus and ScenePT All Stars groups. He has been making demos and is part of Inércia's organizing team since he joined the Demoscene in 2019.
 {{< /details >}}|
-| {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | TIC-80 Tooling (Carl "tenfour" Corcoran)|
+| {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | TIC-80 Tooling (Carl 'tenfour' Corcoran)|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
@@ -44,7 +44,7 @@ GLSL (OpenGL Shading Language) is a programming language used to write code that
 | {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Size Coding Showcase](./participate/#size-coding-showcase)|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETITION{{</cl1>}} | [Demos competition (main event)](./participate/#combined-demo-competition)|
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Varrho + Stereokollektor |
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (Itzik "bacter" Shemesh)|
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (Itzik 'bacter' Shemesh)|
 | | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Sunday · 6 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Pancake Breakfast party |
