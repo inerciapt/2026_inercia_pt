@@ -23,7 +23,12 @@ summary: "4-6 December 2026"
 | {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors Open|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DEMOSHOW{{</cl1>}} | Screening of older Demos| 
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony|
-| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Shaders GLSL (Hugo "Alien" Lino)|
+| {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Shaders GLSL (Hugo "Alien" Lino)" >}}
+![image](/images/bonzo.webp)
+GLSL (OpenGL Shading Language) is a programming language used to write code that runs on the graphics processing unit (GPU). It can then render graphics in 2D and 3D, making the perfect learning platform to quickly show beautiful math based pictures in real time.
+
+[Hugo "alien" Lino](https://demozoo.org/sceners/108887/) is a portuguese coder living in Vienna, Austria and part of Eucalyptus and ScenePT All Stars groups. He has been making demos and is part of Inércia's organizing team since he joined the Demoscene in 2019.
+{{< /details >}}|
 | {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | TIC-80 Tooling (Carl "tenfour" Corcoran)|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
