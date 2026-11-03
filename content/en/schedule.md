@@ -33,7 +33,7 @@ GLSL (OpenGL Shading Language) is a programming language used to write code that
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
-| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart & gamedev on Gameboy (Bad_Dad)| 
+| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Gameboy dev with GB Studio (Bad_Dad)| 
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions|
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | Seminar TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Roundtable on the use of AI in digital art| 
