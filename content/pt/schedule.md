@@ -26,6 +26,7 @@ summary: "4-6 de Dezembro 2026"
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimónia de Abertura|
 | {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Shaders GLSL (Hugo 'Alien' Lino)" >}}
 ![Bonzomatic](/images/bonzo.webp)
+
 GLSL (OpenGL Shading Language) é uma linguagem de programação usada para escrever código que corre na unidade de processamento gráfico (GPU). Pode depois renderizar gráficos em 2D e 3D, tornando-se a plataforma de aprendizagem perfeita para mostrar rapidamente belas imagens matemáticas em tempo real.
 
 [Hugo 'alien' Lino](https://demozoo.org/sceners/108887/) é um programador português que vive em Viena, Áustria, e faz parte dos grupos Eucalyptus e ScenePT All Stars. Faz demos e integra a equipa organizadora da Inércia desde que se juntou à Demoscene em 2019.
@@ -56,7 +57,7 @@ A IA generativa não é permitida na maioria das competições da maioria dos ev
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | [Competição de Demos (evento principal)](./participate/#competição-de-demos)|
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | {{< details summary="VARRHO + Stereokollektor" >}}
 ![VARRHO + Stereokollektor](/images/varrho.webp)
-[VARRHO + Stereokollektor](https://varrho.bandcamp.com/) são um duo de projetos portugueses de drum and bass que têm colaborado nos últimos anos. Vão trazer música do caraças para dançarmos, por isso tragam sapatos confortáveis!
+[VARRHO + Stereokollektor](https://varrho.bandcamp.com/) são um duo de projetos portugueses de drum and bass que têm colaborado nos últimos anos. Vão trazer música excelente para se dançar, por isso tragam sapatos confortáveis!
 {{< /details >}}|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
 ![Bacter](/images/bacter.jpg)
