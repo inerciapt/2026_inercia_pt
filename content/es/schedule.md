@@ -37,6 +37,7 @@ summary: "4-6 de Diciembre 2026"
 |:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart y gamedev en el Gameboy (Bad_Dad)| 
+| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PLAZO{{</cl1>}} | Plazo para la entrega de produccionaes |
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Seminario / Presentación por confirmar |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Mesa redonda sobre el uso de la IA en el arte digital| 
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Muestra de Musica |

@@ -32,6 +32,7 @@ summary: "4-6 December 2026"
 |:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart & gamedev on Gameboy (Bad_Dad)| 
+| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions|
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}TALK{{</cl1>}} | Talk TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Roundtable on the use of AI in digital art| 
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Music Showcase|
