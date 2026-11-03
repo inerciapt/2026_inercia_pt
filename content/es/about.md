@@ -3,7 +3,7 @@ title: "Sobre"
 summary: "Festival de Artes Digitales y Música en Portugal"
 ---
 >
-El festival de Inércia es organizado por la [Associação Inércia](https://inercia.pt), una asociación sin fines lucrativos dedicada a la promoción de la demoscene. La edición de 2026 será la 19ª del evento organizada por los miembros de la Asociación y la 6ª en realizarse en Almada en particular.
+El festival de Inércia es organizado por la [Associação Inércia](https://inercia.pt), una asociación sin fines lucrativos dedicada a la promoción de la demoscene. La edición de 2026 será la 18ª del evento organizada por los miembros de la Asociación y la 6ª en realizarse en Almada en particular.
 
 La Inércia 2026 tendrá lugar del 4 al 6 de diciembre en el Salão de Festas da Incrível Almadense, una sala centenaria en el corazón de Almada, al otro lado del río de Lisboa.
 

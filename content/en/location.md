@@ -53,7 +53,7 @@ Both journeys will take about 1 hour and be sure to buy a [navegante occasional 
 
 Whether you're coming from the north or the south, there is an exit from the A2 highway that leads directly to Almada's city center in just 5 minutes. The party location is quite close to the main avenue (see map).
 
-Parking in Almada's historic center can be challenging and while you might get lucky and find a spot close to the venue, we suggest you these two parking solutions:
+Parking in Almada's historic center can be challenging and while you might get lucky and find a spot close to the venue, we suggest you these parking solutions:
 
  * [Parque do Morro de Cacilhas](https://www.parkopedia.com/parking/carpark/parque_do_morro_de_cacilhas/2800/almada/) - €1.50 / day, 15 minutes walk, open air
  * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - €0.80 / hour, 3 minutes walk, underground
@@ -68,7 +68,7 @@ Points of interest for the event and the city
 
 ## 😴 Sleeping Arrangements
 
-We will have a sleeping hall (and showers) available for you to use during the event. Please beaware that December can get a bit cold in Portugal (10°C during the evenings) and our location does not have proper insulation, so come prepared with your winter sleeping bags.
+We will have a sleeping hall (and showers) available for you to use during the event. Please beware that December can get a bit cold in Portugal (10°C during the evenings) and our location does not have proper insulation, so come prepared with your winter sleeping bags.
 
 If you want a real bed, we recommend [Casa do Tejo](https://www.casadotejo.pt/) within short walk distance of our venue, and you'll get a discount if you mention you're coming to Inércia while reserving.
 

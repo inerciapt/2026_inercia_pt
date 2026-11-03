@@ -94,7 +94,7 @@ sections:
   - overline: "Assiste"
     title: "Shader Royale"
     content: |
-      Assiste em directo ao evento de programação de shaders com o record do maior número de participantes simultâneos do mundo. Todos os anos temos pessoas espalhadas um pouco por todo o mundo que ficam acordadas até às 5 da manha para poder participar no Shader Royale ao som do nosso DJ de serviço. Vais perder o evento?
+      Participa ou assiste em direto ao evento de programação de shaders com o record do maior número de participantes simultâneos do mundo. Todos os anos temos pessoas espalhadas um pouco por todo o mundo que ficam acordadas até às 5 da manha para poder participar no Shader Royale ao som do nosso DJ de serviço. Vais perder o evento?
     image:
       src: "/images/_DSC2420-1920.webp"
       alt: "Shader Royale"
