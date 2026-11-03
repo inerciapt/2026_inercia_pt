@@ -30,7 +30,7 @@ GLSL (OpenGL Shading Language) is a programming language used to write code that
 [Hugo 'alien' Lino](https://demozoo.org/sceners/108887/) is a portuguese coder living in Vienna, Austria and part of Eucalyptus and ScenePT All Stars groups. He has been making demos and is part of Inércia's organizing team since he joined the Demoscene in 2019.
 {{< /details >}}|
 | {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | {{< details summary="TIC-80 Tooling (Carl 'tenfour' Corcoran)" >}}
-[TIC-80](/images/tic80.gif)
+![TIC-80](/images/tic80.gif)
 TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games, and you can also make demos with it.
 
 [Carl 'tenfour' Corcoran](https://demozoo.org/sceners/51926/) is a Canadian/Belgian coder and musician, part of RBBS and Space Logistics groups.
@@ -45,7 +45,7 @@ GB Studio is a drag and drop game creator for making Game Boy games. You can gen
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions|
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | Seminar TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="Roundtable on the use of AI in digital art" >}}
-Generative AI is not allowed in most competitions at the majority of the Demoscene events. Why is that, and should we slow down the adoption of AI in general or welcome it with open arms? Advantages, disadvantages, content training and environment concerns will be the topics for discussions. Moderated by [Manuel Correia]https://gamesbymanuel.com/bio/.
+Generative AI is not allowed in most competitions at the majority of the Demoscene events. Why is that, and should we slow down the adoption of AI in general or welcome it with open arms? Advantages, disadvantages, content training and environment concerns will be the topics for discussions. Moderated by [Manuel Correia](https://gamesbymanuel.com/bio/).
 {{< /details >}}|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Music Showcase](./participate/#music-showcase)|
 | {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | [Graphics Showcase](./participate/#graphics-showcase)|
