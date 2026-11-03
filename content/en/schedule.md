@@ -17,10 +17,9 @@ summary: "4-6 December 2026"
 
 > {{< jtzr-ui >}}**(Times are presented in UTC+0)**{{< /jtzr-ui >}}
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-04" >}}Friday · 4 December{{< /jtzr-anchor-date >}}
-
 | | | |
 |:-:|:-:|:-|
+{{< jtzr-anchor-date-colspan datetime="2026-12-04" >}}Friday · 4 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors Open|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DEMOSHOW{{</cl1>}} | Screening of older Demos| 
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony|
@@ -29,10 +28,9 @@ summary: "4-6 December 2026"
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (with DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date >}}
-
 | | | |
 |:-:|:-:|:-|
+{{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart & gamedev on Gameboy (Bad_Dad)| 
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}TALK{{</cl1>}} | Talk TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Roundtable on the use of AI in digital art| 
@@ -45,10 +43,9 @@ summary: "4-6 December 2026"
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Varrho + Stereokollektor |
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (Itzik "bacter" Shemesh)|
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-06" >}}Sunday · 6 December{{< /jtzr-anchor-date >}}
-
 | | | |
 |:-:|:-:|:-|
+{{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Sunday · 6 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Pancake Breakfast party |
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Closing Ceremony|
 | {{< jtzr-time >}}12:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Community Lunch|

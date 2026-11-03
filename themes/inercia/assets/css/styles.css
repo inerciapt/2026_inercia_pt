@@ -1173,11 +1173,18 @@ h6 {
 	text-align: start;
 	padding-inline: calc(var(--unit-s));
 	padding-block: calc(var(--unit-s)/1.5);
-	border-bottom: 1px solid var(--table-border-color)
+	/*border-bottom: 1px solid var(--table-border-color)*/
 }
 
 .s-content tbody tr:nth-child(2n) {
 	background: #ffffff0d
+}
+
+.s-content .colspan3 {
+	padding-inline: calc(var(--unit-s));
+	padding-block: calc(var(--unit-s)/1.5);
+	font-size: var(--fs-l);
+	font-weight: bold;
 }
 
 @keyframes gradient {

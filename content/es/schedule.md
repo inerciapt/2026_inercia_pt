@@ -22,10 +22,9 @@ summary: "4-6 de Diciembre 2026"
 
 > {{< jtzr-ui >}}**(Horas apresentadas em UTC+0)**{{< /jtzr-ui >}}
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-04" >}}Viernes · 4 de Diciembre{{< /jtzr-anchor-date >}}
-
 | | | |
 |:-:|:-:|:-|
+{{< jtzr-anchor-date-colspan datetime="2026-12-04" >}}Viernes · 4 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Apertura de puertas|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DEMOSHOW{{</cl1>}} | Muestra de Demos| 
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Ceremonia de Apertura|
@@ -34,10 +33,9 @@ summary: "4-6 de Diciembre 2026"
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (con DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date >}}
-
 | | | |
 |:-:|:-:|:-|
+{{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart y gamedev en el Gameboy (Bad_Dad)| 
 | {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Seminario / Presentación por confirmar |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Mesa redonda sobre el uso de la IA en el arte digital| 
@@ -50,10 +48,9 @@ summary: "4-6 de Diciembre 2026"
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Varrho + Stereokollektor |
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (Itzik "bacter" Shemesh)|
 
-### 📅 {{< jtzr-anchor-date datetime="2026-12-06" >}}Domingo · 6 de Diciembre{{< /jtzr-anchor-date >}}
-
 | | | |
 |:-:|:-:|:-|
+{{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Domingo · 6 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Desayuno com Panqueques |
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimonia de clausura y entrega de premios|
 | {{< jtzr-time >}}12:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Almuerzo Comunitario|
