@@ -32,9 +32,6 @@ summary: "4-6 de Diciembre 2026"
 | {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Herramientas para TIC-80 (Carl "tenfour" Corcoran)|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (con DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
-
-| | | |
-|:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | Pixelart y gamedev en el Gameboy (Bad_Dad)| 
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PLAZO{{</cl1>}} | Plazo para la entrega de produccionaes |
@@ -48,9 +45,7 @@ summary: "4-6 de Diciembre 2026"
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | Competición de Demos |
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | Varrho + Stereokollektor |
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (Itzik "bacter" Shemesh)|
-
 | | | |
-|:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Domingo · 6 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Desayuno com Panqueques |
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimonia de clausura y entrega de premios|
