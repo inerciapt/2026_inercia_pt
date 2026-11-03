@@ -68,6 +68,11 @@
   url: "https://loadzx.com/"
   logo: "images/svg/load_zx_spectrum.svg"
 
+- name: "Bazar do Vídeo"
+  tier: "bronze"
+  url: "https://bazardovideo.pt/"
+  logo: "images/svg/bazardovideo.svg"
+
 #- name: "Gaming Hub"
 #  tier: "bronze"
 #  url: "https://www.uflgaminghub.com/"
