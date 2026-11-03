@@ -1,6 +1,6 @@
 <div class="b-siteNav">
 	<div class="b-siteNav__container">
-		<a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }} - home" class="b-siteNav__brand b-siteNav__link" itemscope itemtype="https://schema.org/Organization">
+		<a href="{{ .Site.Home.Permalink }}" aria-label="{{ .Site.Title }} - home" class="b-siteNav__brand b-siteNav__link" itemscope itemtype="https://schema.org/Organization">
 			<meta itemprop="url" content="{{ .Site.BaseURL }}">
 			{{ with .Site.Params.logo }}
 			<img width="20em" height="auto" alt="" src="{{ . }}" srcset="{{ $.Site.Params.logo_small }} 959w, {{ . }} 1920w" sizes="100vw">
