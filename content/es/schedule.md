@@ -39,7 +39,7 @@ TIC-80 es un ordenador de fantasía gratuito y de código abierto para crear, ju
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
 ![Teo](/images/teo.jpg)
 Es un músico de la escena Amiga con una larga lista de producciones a sus espaldas; ha formado parte de grupos como Focus Design y Rebels. También colaboró ​​en la organización de Evoke durante años y, este año, traerá ritmos y buenas vibras a nuestra silent disco. ¡Trae tus auriculares y un dispositivo con Wi-Fi (como un teléfono móvil) y baila hasta no poder más!
-{{< /detalhes >}}|
+{{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Desarrollo de juegos para Gameboy con GB Studio (Bad_Dad)" >}}
 ![GB Studio](/images/gbstudio.webp)
