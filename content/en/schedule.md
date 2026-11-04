@@ -37,7 +37,7 @@ TIC-80 is a free and open source fantasy computer for making, playing and sharin
 {{< /details >}}|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
-![Teo](/images/teo.jpg)
+![Teo](/images/teo.webp)
 He’s an Amiga musician with a long list of music releases, and has been involved with groups including Focus Design and Rebels. He has also helped organize Evoke for years, and this year he will bring some beats and vibes to our silent disco. Bring your own headphones and wifi capable device (like a phone) and dance away!
 {{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
