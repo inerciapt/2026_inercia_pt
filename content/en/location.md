@@ -22,6 +22,7 @@ You can find out more about Almada at [the official Almada municipality website]
 
 Almada is situated across the river from Lisbon and easily reachable by car or public transports (boat, bus, train). [Lisbon Airport (LIS)](https://www.aeroportolisboa.pt/en/lis/flights-destinations/airlines/airlines-and-destinations) has several connections with main airports across Europe and the rest of the world and is used by premium and lowcost airlines alike.
 
+By the way, you might want to check [Darklite's PartyWiki](https://party.darklite.org/inercia-2026/) in case you want to book flights or join bus trips with fellow demosceners.
 
 ## 📍 Location Address
 

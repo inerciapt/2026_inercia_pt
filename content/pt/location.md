@@ -21,6 +21,7 @@ Podes conhecer melhor Almada através da [página oficial da Câmara Municipal d
 
 Almada está situada do outro lado do Tejo e é facilmente acessível de carro ou transportes públicos (barco, autocarro, comboio). [O aeroporto de Lisboa (LIS)](https://www.aeroportolisboa.pt/en/lis/flights-destinations/airlines/airlines-and-destinations) tem vários voos de ligação com os principais aeroportos da Europa e resto do mundo e é usado quer pelas companhias de aviação comuns, quer pelas chamadas lowcost.
 
+Já agora, talvez valha a pena espreitar a [PartyWiki dos Darklite](https://party.darklite.org/inercia-2026/), caso queiram reservar voos ou juntar-se a viagens de autocarro com outros membros Demoscene.
 
 ## 📍 Morada
 

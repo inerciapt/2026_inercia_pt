@@ -21,6 +21,7 @@ Puedes conocer mejor Almada a través de la [página oficial del Ayuntamiento de
 
 Almada está situada al otro lado del Tajo y es fácilmente accesible en coche o transporte público (barco, autobús, tren). [El aeropuerto de Lisboa (LIS)](https://www.aeroportolisboa.pt/en/lis/flights-destinations/airlines/airlines-and-destinations) tiene varios vuelos de conexión con los principales aeropuertos de Europa y el resto del mundo y es utilizado tanto por las compañías aéreas regulares como por las llamadas lowcost.
 
+Por cierto, tal vez valga la pena echar un vistazo a [PartyWiki de Darklite](https://party.darklite.org/inercia-2026/), por si quieres reservar vuelos o unirte a viajes en autobús con otros miembros de la Demoscene.
 
 ## 📍 Dirección
 
