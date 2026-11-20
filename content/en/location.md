@@ -62,12 +62,8 @@ Parking in Almada's historic center can be challenging and while you might get l
 
 ## 😴 Sleeping Arrangements
 
-We will have a sleeping hall (and showers) available for you to use during the event. Please beware that December can get a bit cold in Portugal (10°C during the evenings) and our location does not have proper insulation, so come prepared with your winter sleeping bags.
+We will have a sleeping hall (and showers - 15:00 to 18:00 on Saturday) available for you to use during the event.
 
-If you want a real bed, we recommend [Casa do Tejo](https://www.casadotejo.pt/) within short walk distance of our venue, and you'll get a discount if you mention you're coming to Inércia while reserving.
+Please beware that December can get a bit cold in Portugal (10°C during the evenings) and our location does not have proper insulation, so come prepared with your winter sleeping bags.
 
-A cheaper option is [Pousada da Juventude](https://www.pousadasjuventude.pt/pt/pousadas/pousada-de-almada/), known for being very affordable but beware that it's not within walking distance from our venue.
-
-You can also find other hotels and bed and breakfast places through [booking.com](booking.com).
-
-
+If you want a real bed you can also find several hotels and bed and breakfast places through [booking.com](booking.com).

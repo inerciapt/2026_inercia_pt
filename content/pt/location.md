@@ -62,10 +62,8 @@ Estacionar no centro histórico de Almada pode ser um desafio e, embora possas t
 
 ## 😴 Dormidas
 
-Durante o evento, estará disponível uma área de descanso onde poderás dormir, com a possibilidade de utilização de chuveiros. Atenção que, em dezembro, pode fazer frio em Almada (10°C durante a noite) e o nosso local não tem um isolamento adequado, por isso vem preparado com o teu saco-cama de inverno.
+Durante o evento, estará disponível uma área de descanso onde poderás dormir, com a possibilidade de utilização de chuveiros (das 15:00 às 18:00 no Sábado).
 
-Se preferes uma cama a sério, recomendamos a [Casa do Tejo](https://dotejocasa.pt/) a poucos metros do Salão de Festas, e se mencionares que vens para o evento durante a reserva, fazem-te um desconto.
+Atenção que, em Dezembro, pode fazer frio em Almada (10°C durante a noite) e o nosso local não tem um isolamento adequado, por isso vem preparado com o teu saco-cama de inverno.
 
-Se estás à procura do mais barato possivel, a [Pousada da Juventude](https://www.pousadasjuventude.pt/pt/pousadas/pousada-de-almada/),  tem boa reputação de boa qualidade/preço em Almada, mas tem em conta que fica relativamente longe do Salão de Festas, não se vai facilmente a pé até lá.
-
-Em alternativa, há outros hotéis ou locais de alojamento local disponíveis através do [booking.com](https://booking.com).
+Se preferires uma cama a sério, há vários hotéis e casas de alojamento local disponíveis através do [booking.com](https://booking.com).
