@@ -145,3 +145,6 @@ defaultContentLanguageInSubdir = true
       name = "Contacto"
       url = "/es/contact/"
       weight = 80
+
+[markup.goldmark.renderer]
+  hardWraps = true

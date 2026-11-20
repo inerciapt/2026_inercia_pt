@@ -29,8 +29,9 @@ Rua Sociedade Filarmónica Incrível Almadense, 8A
 2800-158 Almada
 Portugal
 
-[Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
+{{< singleimage img="/images/local_map.jpg" caption="Mapa de Almada" alt="Mapa de Almada" >}}
 
+[Abrir en Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 
 ## 🚉 En transporte público
 
@@ -58,13 +59,6 @@ Aparcar en el centro histórico de Almada puede ser un desafío y, aunque puedas
  * [Parque do Morro de Cacilhas](https://www.parkopedia.com/parking/carpark/parque_do_morro_de_cacilhas/2800/almada/) - 1,50€ / día, 15 minutos a pie, al aire libre
  * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - 0,80€ / hora, 3 minutos a pie, garaje subterráneo
  * [Parque Gabriel Pedro](https://www.bragaparques.pt/pdfs/Tarifario_P004GP.pdf) - 1,20€ / hora, 3 minutos a pie, garaje subterráneo
-
-## Mapa de Almada
-
-Puntos de interés de nuestro evento y de la ciudad.
-{{< singleimage img="/images/local_map.jpg" caption="Mapa de Almada" alt="Mapa de Almada" >}}
-
-[Abrir en Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 
 ## 😴 Dormidas
 

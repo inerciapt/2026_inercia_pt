@@ -9,7 +9,6 @@ We will have the hall equipped with tables, chairs, lighting, Full HD projection
 
 {{< singleimage img="/images/venue.jpg" caption="Salão de Festas Incrível Almadense - Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
 
-
 ## About Almada
 
 Almada is a town on the southern margin of the Tagus river, on the opposite side of the river from Lisbon. It is known for its old shipyard history of Lisnave, the 25 de Abril suspension bridge (similar to San Francisco Bay Bridge) to Lisbon, the ferry boats that bring the two river separated cities together in under 15 mins and the statue of Cristo Rei (similar to Rio de Janeiro statue).
@@ -30,8 +29,9 @@ Rua Sociedade Filarmónica Incrível Almadense, 8A
 2800-158 Almada
 Portugal
 
-[Open in Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
+{{< singleimage img="/images/local_map.jpg" caption="Map of Almada" alt="Map of Almada" >}}
 
+[Open in Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 
 ## 🚉 By public transport
 
@@ -59,13 +59,6 @@ Parking in Almada's historic center can be challenging and while you might get l
  * [Parque do Morro de Cacilhas](https://www.parkopedia.com/parking/carpark/parque_do_morro_de_cacilhas/2800/almada/) - €1.50 / day, 15 minutes walk, open air
  * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - €0.80 / hour, 3 minutes walk, underground
  * [Parque Gabriel Pedro](https://www.bragaparques.pt/pdfs/Tarifario_P004GP.pdf) - €1.20 / hour, 3 minutes walk, underground
-
-## Map of Almada
-
-Points of interest for the event and the city
-{{< singleimage img="/images/local_map.jpg" caption="Map of Almada" alt="Map of Almada" >}}
-
-[Open in Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 
 ## 😴 Sleeping Arrangements
 

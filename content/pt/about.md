@@ -29,11 +29,7 @@ A Inércia na sua raiz é uma demoparty mas também convida outras culturas liga
 
 ## Entrada
 
-Entrada gratuita para associados da [Associação Inércia](https://inercia.pt) ou [SFIA](https://incrivelalmadense.pt) com as quotas anuais pagas.
-
-10€ para restantes interessados (5€ cada dia).
-
-Entrada gratuita no Domingo de manhã.
+{{< include "entrance_ticket.md" >}}
 
 Devido às limitações de capacidade, temos um sistema de pré-inscrição. Mais informações [nesta página](./visiting/).
 
@@ -41,9 +37,9 @@ Devido às limitações de capacidade, temos um sistema de pré-inscrição. Mai
 
 A organização reserva o direito de excluir do evento qualquer pessoa que possa estar a causar distúrbios ou tenha demonstrado esse tipo de comportamentos no passado, ao abrigo da lei de organização de eventos privados. Só o faremos quando recebermos queixas de discriminação ou doutrinação indesejada / discurso retórico sobre quaisquer assuntos discriminatórios (racismo, intolerância, misoginia, discurso de ódio religioso ou político, teorias da conspiração, etc.). Não serão toleradas quaisquer ameaças físicas ou verbais / assédio aos nossos voluntários organizadores ou visitantes. Quem for apanhado a infringir a lei portuguesa será entregue às autoridades locais.
 
-<!-- ## Pacote de Imprensa
+## Pacote de Imprensa
 
-Temos um pacote de imprensa [disponivel para download](/Inercia2026PressPack.zip). -->
+Temos um pacote de imprensa [disponivel para download](/Inercia2026PressPack.zip).
 
 ## Contacto Geral
 

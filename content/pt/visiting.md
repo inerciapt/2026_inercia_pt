@@ -16,10 +16,4 @@ Quem já se registou para visitar a Inércia 2026 presencialmente:
 
 ## Opções de Entrada
 
-Entrada gratuita para os nossos organizadores voluntários e membros da Associação Inércia ou SFIA com as quotas anuais pagas.
-
-Entrada gratuita para crianças até 13 anos, desde que acompanhadas por um adulto responsável.
-
-Custo de entrada €5 por dia.
-
-Queres apoiar a realização do evento? Temos um bilhete especial com custo de entrada 100€ para apoiantes do evento, inclui vário merchandise da Inércia e aquele sentimento fofo de estar a apoiar a organização deste e futuros eventos organizados pela Associação Inércia.
+{{< include "entrance_ticket.md" >}}

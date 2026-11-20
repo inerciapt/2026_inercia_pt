@@ -16,10 +16,4 @@ Already registered to attend Inércia 2026 in person:
 
 ## Ticket Options
 
-Free entrance to our volunteer organizers or associates of Associação Inércia or SFIA with their yearly quotas paid.
-
-Free entrance to kids under 13 years old accompanied by a responsible adult.
-
-Entrance cost €5 per day.
-
-Want to support the event? We have a special supporters ticket costing 100€, it includes several Inércia merchandise and that warm fuzzy feeling that you're supporting the organization of this and future events organized by Associação Inércia.
+{{< include "entrance_ticket.md" >}}
