@@ -46,7 +46,6 @@ TIC-80 is a free and open source fantasy computer for making, playing and sharin
 GB Studio is a drag and drop game creator for making Game Boy games. You can generate ROM files that can be run in an emulator, on a web page or on real Game Boy hardware.
 {{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions|
-| {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | Seminar TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="Roundtable on the use of AI in digital art" >}}
 Generative AI is not allowed in most competitions at the majority of the Demoscene events. Why is that, and should we slow down the adoption of AI in general or welcome it with open arms? Advantages, disadvantages, content training and environment concerns will be the topics for discussions. Moderated by [Manuel Correia](https://gamesbymanuel.com/bio/).
 {{< /details >}}|
@@ -64,7 +63,6 @@ Generative AI is not allowed in most competitions at the majority of the Demosce
 ![Teo](/images/teo.webp)
 He’s an Amiga musician with a long list of music releases, and has been involved with groups including Focus Design and Rebels. He has also helped organize Evoke for years, and this year he will bring some beats and vibes to our silent disco. Bring your own headphones and wifi capable device (like a phone) and dance away!
 {{< /details >}}|
-| | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Sunday · 6 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="Pancake Breakfast party" >}}
 ![Pancakes](/images/DSC05470.webp)

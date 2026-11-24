@@ -48,7 +48,6 @@ O TIC-80 é um computador de fantasia gratuito e de código aberto para criar, j
 O GB Studio é um criador de jogos de arrastar e largar para fazer jogos de Game Boy. Podes gerar ficheiros ROM que correm num emulador, numa página web ou em hardware Game Boy real.
 {{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PRAZO{{</cl1>}} | Prazo para entrega de produções |
-| {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Seminário / Apresentação a confirmar |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Mesa redonda sobre o uso da IA na arte digital" >}}
 A IA generativa não é permitida na maioria das competições da maioria dos eventos da Demoscene. Porquê, e devemos abrandar a adoção da IA em geral ou recebê-la de braços abertos? Vantagens, desvantagens, treino de conteúdos e preocupações ambientais serão os tópicos de discussão. Moderado por [Manuel Correia](https://gamesbymanuel.com/bio/).
 {{< /details >}}|
@@ -66,7 +65,6 @@ A IA generativa não é permitida na maioria das competições da maioria dos ev
 ![Teo](/images/teo.webp)
 É um músico de Amiga com uma longa lista de produções e já participou em grupos como Focus Design e Rebels. Também ajudou a organizar a Evoke durante anos e, este ano, trará ritmos e boas vibrações para a nossa silent disco. Tragam os vossos auscultadores e um dispositivo com Wi-Fi (como um telemóvel) e dancem até cair!
 {{< /details >}}|
-| | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Domingo · 6 de Dezembro{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Pequeno-almoço com panquecas" >}}
 ![Panquecas](/images/DSC05470.webp)
