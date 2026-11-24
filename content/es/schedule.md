@@ -36,9 +36,9 @@ TIC-80 es un ordenador de fantasía gratuito y de código abierto para crear, ju
 [Carl 'tenfour' Corcoran](https://demozoo.org/sceners/51926/) es un programador y músico canadiense/belga, miembro de los grupos RBBS y Space Logistics.
 {{< /details >}}|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (con DJ Tina Stormcaller)|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
-![Teo](/images/teo.webp)
-Es un músico de la escena Amiga con una larga lista de producciones a sus espaldas; ha formado parte de grupos como Focus Design y Rebels. También colaboró ​​en la organización de Evoke durante años y, este año, traerá ritmos y buenas vibras a nuestra silent disco. ¡Trae tus auriculares y un dispositivo con Wi-Fi (como un teléfono móvil) y baila hasta no poder más!
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
+![Bacter](/images/bacter.jpg)
+[Bacter](https://demozoo.org/sceners/3510/) lleva en la Demoscene desde los años 90 y es un habitual de Inércia en los últimos años. Por segunda vez, nos deleitará con ritmos suaves y sensuales — ¡esta vez, en silencio! Traed vuestros propios auriculares y un dispositivo con wifi (como un móvil) y bailad toda la noche.
 {{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Desarrollo de juegos para Gameboy con GB Studio (Bad_Dad)" >}}
@@ -60,9 +60,9 @@ La IA generativa no está permitida en la mayoría de las competiciones de la ma
 ![VARRHO + Stereokollektor](/images/varrho.webp)
 [VARRHO + Stereokollektor](https://varrho.bandcamp.com/) son un dúo de proyectos portugueses de drum and bass que llevan colaborando en los últimos años. Traerán música impresionante para bailar, ¡así que traed zapatos cómodos!
 {{< /details >}}|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
-![Bacter](/images/bacter.jpg)
-[Bacter](https://demozoo.org/sceners/3510/) lleva en la Demoscene desde los años 90 y es un habitual de Inércia en los últimos años. Por segunda vez, nos deleitará con ritmos suaves y sensuales — ¡esta vez, en silencio! Traed vuestros propios auriculares y un dispositivo con wifi (como un móvil) y bailad toda la noche.
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
+![Teo](/images/teo.webp)
+Es un músico de la escena Amiga con una larga lista de producciones a sus espaldas; ha formado parte de grupos como Focus Design y Rebels. También colaboró ​​en la organización de Evoke durante años y, este año, traerá ritmos y buenas vibras a nuestra silent disco. ¡Trae tus auriculares y un dispositivo con Wi-Fi (como un teléfono móvil) y baila hasta no poder más!
 {{< /details >}}|
 | | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Domingo · 6 de Diciembre{{< /jtzr-anchor-date-colspan >}}
