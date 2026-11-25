@@ -33,6 +33,10 @@ GLSL (OpenGL Shading Language) is a programming language used to write code that
 ![TIC-80](/images/tic80.gif)
 TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games, and you can also make demos with it.
 
+TIC-80's native editors are fine for simple demos and one-person teams. For anything fancy you'll need tools. So instead of making a demo, tenfour built a cross-dev toolchain for TIC-80 demomaking.
+
+In this one-hour seminar you will be introduced to new tools that make TIC-80 demo development more comfortable and collaborative. Expect a quick tour of the TIC-80 and walkthrough creating a demo with a synchronized music track.
+
 [Carl 'tenfour' Corcoran](https://demozoo.org/sceners/51926/) is a Canadian/Belgian coder and musician, part of RBBS and Space Logistics groups.
 {{< /details >}}|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
