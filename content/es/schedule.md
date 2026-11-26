@@ -33,17 +33,23 @@ GLSL (OpenGL Shading Language) es un lenguaje de programación que se utiliza pa
 ![TIC-80](/images/tic80.gif)
 TIC-80 es un ordenador de fantasía gratuito y de código abierto para crear, jugar y compartir pequeños juegos, y también puedes hacer demos con él.
 
+Los editores nativos de TIC-80 están bien para demos sencillas y equipos formados por una sola persona. Para cualquier cosa más sofisticada, necesitarás herramientas. Así que, en lugar de crear una demo, tenfour ha desarrollado una cadena de herramientas de desarrollo cruzado para la creación de demos en TIC-80.
+
+En este seminario de una hora, te presentaremos nuevas herramientas que hacen que el desarrollo de demos para TIC-80 sea más cómodo y colaborativo. Te ofrecemos un breve recorrido por el TIC-80 y un tutorial paso a paso para crear una demo con una pista musical sincronizada.
+
 [Carl 'tenfour' Corcoran](https://demozoo.org/sceners/51926/) es un programador y músico canadiense/belga, miembro de los grupos RBBS y Space Logistics.
 {{< /details >}}|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (con DJ Tina Stormcaller)|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
+![Bacter](/images/bacter.jpg)
+[Bacter](https://demozoo.org/sceners/3510/) lleva en la Demoscene desde los años 90 y es un habitual de Inércia en los últimos años. Por segunda vez, nos deleitará con ritmos suaves y sensuales — ¡esta vez, en silencio! Traed vuestros propios auriculares y un dispositivo con wifi (como un móvil) y bailad toda la noche.
+{{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Desarrollo de juegos para Gameboy con GB Studio (Bad_Dad)" >}}
 ![GB Studio](/images/gbstudio.webp)
 GB Studio es un creador de juegos de arrastrar y soltar para hacer juegos de Game Boy. Puedes generar archivos ROM que se ejecuten en un emulador, en una página web o en hardware real de Game Boy.
 {{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PLAZO{{</cl1>}} | Plazo para la entrega de producciones |
-| {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINARIO{{</cl1>}} | Seminario / Presentación por confirmar |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Mesa redonda sobre el uso de la IA en el arte digital" >}}
 La IA generativa no está permitida en la mayoría de las competiciones de la mayoría de los eventos de la Demoscene. ¿Por qué, y deberíamos frenar la adopción de la IA en general o recibirla con los brazos abiertos? Ventajas, desventajas, entrenamiento de contenidos y preocupaciones medioambientales serán los temas de debate. Moderada por [Manuel Correia](https://gamesbymanuel.com/bio/).
 {{< /details >}}|
@@ -57,11 +63,10 @@ La IA generativa no está permitida en la mayoría de las competiciones de la ma
 ![VARRHO + Stereokollektor](/images/varrho.webp)
 [VARRHO + Stereokollektor](https://varrho.bandcamp.com/) son un dúo de proyectos portugueses de drum and bass que llevan colaborando en los últimos años. Traerán música impresionante para bailar, ¡así que traed zapatos cómodos!
 {{< /details >}}|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
-![Bacter](/images/bacter.jpg)
-[Bacter](https://demozoo.org/sceners/3510/) lleva en la Demoscene desde los años 90 y es un habitual de Inércia en los últimos años. Por segunda vez, nos deleitará con ritmos suaves y sensuales — ¡esta vez, en silencio! Traed vuestros propios auriculares y un dispositivo con wifi (como un móvil) y bailad toda la noche.
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
+![Teo](/images/teo.webp)
+Es un músico de la escena Amiga con una larga lista de producciones a sus espaldas; ha formado parte de grupos como Focus Design y Rebels. También colaboró ​​en la organización de Evoke durante años y, este año, traerá ritmos y buenas vibras a nuestra silent disco. ¡Trae tus auriculares y un dispositivo con Wi-Fi (como un teléfono móvil) y baila hasta no poder más!
 {{< /details >}}|
-| | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Domingo · 6 de Diciembre{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Desayuno de panqueques" >}}
 ![Panqueques](/images/DSC05470.webp)

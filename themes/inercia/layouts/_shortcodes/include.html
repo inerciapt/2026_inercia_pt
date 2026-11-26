@@ -1,0 +1,5 @@
+{{ $file := .Get 0 }}
+{{ $filel := .Site.GetPage $file }}
+{{ $content := readFile $filel }}
+{{ $body := replaceRE "^---[\\s\\S]+?---\\s*" "" $content }}
+{{ $body | markdownify }}

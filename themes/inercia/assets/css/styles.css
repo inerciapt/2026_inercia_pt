@@ -828,7 +828,6 @@ h6 {
 	padding-inline: var(--unit-m);
 	display: flex;
 	position: relative;
-	gap: 30px;
 	width: 1000px - var(--unit-m);
 }
 

@@ -33,17 +33,23 @@ GLSL (OpenGL Shading Language) is a programming language used to write code that
 ![TIC-80](/images/tic80.gif)
 TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games, and you can also make demos with it.
 
+TIC-80's native editors are fine for simple demos and one-person teams. For anything fancy you'll need tools. So instead of making a demo, tenfour built a cross-dev toolchain for TIC-80 demomaking.
+
+In this one-hour seminar you will be introduced to new tools that make TIC-80 demo development more comfortable and collaborative. Expect a quick tour of the TIC-80 and walkthrough creating a demo with a synchronized music track.
+
 [Carl 'tenfour' Corcoran](https://demozoo.org/sceners/51926/) is a Canadian/Belgian coder and musician, part of RBBS and Space Logistics groups.
 {{< /details >}}|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (with DJ Tina Stormcaller)|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
+![Bacter](/images/bacter.jpg)
+[Bacter](https://demozoo.org/sceners/3510/) has been around the Demoscene since the 90s and a regular at Inércia in the past years. For the second time, he will deliver smooth and sexy beats for us to enjoy - this time, in silence! Bring your own headphones and wifi capable device (like a phone) and dance your socks off through the night.
+{{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Saturday · 5 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Gameboy dev with GB Studio (Bad_Dad)" >}}
 ![GB Studio](/images/gbstudio.webp)
 GB Studio is a drag and drop game creator for making Game Boy games. You can generate ROM files that can be run in an emulator, on a web page or on real Game Boy hardware.
 {{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions|
-| {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINAR{{</cl1>}} | Seminar TBC |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="Roundtable on the use of AI in digital art" >}}
 Generative AI is not allowed in most competitions at the majority of the Demoscene events. Why is that, and should we slow down the adoption of AI in general or welcome it with open arms? Advantages, disadvantages, content training and environment concerns will be the topics for discussions. Moderated by [Manuel Correia](https://gamesbymanuel.com/bio/).
 {{< /details >}}|
@@ -57,11 +63,10 @@ Generative AI is not allowed in most competitions at the majority of the Demosce
 ![VARRHO + Stereokollektor](/images/varrho.webp)
 [VARRHO + Stereokollektor](https://varrho.bandcamp.com/) are a duo of Portuguese drum and bass projects who have been collaborating in the past years. They will bring some kickass music for us to dance, so bring some comfortable shoes!
 {{< /details >}}|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
-![Bacter](/images/bacter.jpg)
-[Bacter](https://demozoo.org/sceners/3510/) has been around the Demoscene since the 90s and a regular at Inércia in the past years. For the second time, he will deliver smooth and sexy beats for us to enjoy - this time, in silence! Bring your own headphones and wifi capable device (like a phone) and dance your socks off through the night.
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
+![Teo](/images/teo.webp)
+He’s an Amiga musician with a long list of music releases, and has been involved with groups including Focus Design and Rebels. He has also helped organize Evoke for years, and this year he will bring some beats and vibes to our silent disco. Bring your own headphones and wifi capable device (like a phone) and dance away!
 {{< /details >}}|
-| | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Sunday · 6 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="Pancake Breakfast party" >}}
 ![Pancakes](/images/DSC05470.webp)

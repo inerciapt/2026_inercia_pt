@@ -19,8 +19,7 @@ defaultContentLanguageInSubdir = true
   scenelinksat = "video/5"
 
   # Change to show Partyman button on navbar
-  acceptingsubmissions = false
-
+  acceptingsubmissions = true
   # Change this mofo to true Friday midday
   wearelive = false
 
@@ -145,3 +144,6 @@ defaultContentLanguageInSubdir = true
       name = "Contacto"
       url = "/es/contact/"
       weight = 80
+
+[markup.goldmark.renderer]
+  hardWraps = true

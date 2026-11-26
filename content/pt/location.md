@@ -21,6 +21,7 @@ Podes conhecer melhor Almada através da [página oficial da Câmara Municipal d
 
 Almada está situada do outro lado do Tejo e é facilmente acessível de carro ou transportes públicos (barco, autocarro, comboio). [O aeroporto de Lisboa (LIS)](https://www.aeroportolisboa.pt/en/lis/flights-destinations/airlines/airlines-and-destinations) tem vários voos de ligação com os principais aeroportos da Europa e resto do mundo e é usado quer pelas companhias de aviação comuns, quer pelas chamadas lowcost.
 
+Já agora, talvez valha a pena espreitar a [PartyWiki dos Darklite](https://party.darklite.org/inercia-2026/), caso queiram reservar voos ou juntar-se a viagens de autocarro com outros membros Demoscene.
 
 ## 📍 Morada
 
@@ -28,8 +29,9 @@ Rua Sociedade Filarmónica Incrível Almadense, 8A
 2800-158 Almada
 Portugal
 
-[Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
+{{< singleimage img="/images/local_map.jpg" caption="Mapa de Almada" alt="Mapa de Almada" >}}
 
+[Abrir em Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 
 ## 🚉 Por transportes públicos
 
@@ -58,19 +60,10 @@ Estacionar no centro histórico de Almada pode ser um desafio e, embora possas t
  * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - €0.80 / hora, 3 minutos a pé, garagem subterrânea
  * [Parque Gabriel Pedro](https://www.bragaparques.pt/pdfs/Tarifario_P004GP.pdf) - €1.20 / hora, 3 minutos a pé, garagem subterrânea
 
-## Mapa de Almada
-
-Pontos de interesse do nosso evento e da cidade.
-{{< singleimage img="/images/local_map.jpg" caption="Mapa de Almada" alt="Mapa de Almada" >}}
-
-[Abrir em Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
-
 ## 😴 Dormidas
 
-Durante o evento, estará disponível uma área de descanso onde poderás dormir, com a possibilidade de utilização de chuveiros. Atenção que, em dezembro, pode fazer frio em Almada (10°C durante a noite) e o nosso local não tem um isolamento adequado, por isso vem preparado com o teu saco-cama de inverno.
+Durante o evento, estará disponível uma área de descanso onde poderás dormir, com a possibilidade de utilização de chuveiros (das 15:00 às 18:00 no Sábado).
 
-Se preferes uma cama a sério, recomendamos a [Casa do Tejo](https://dotejocasa.pt/) a poucos metros do Salão de Festas, e se mencionares que vens para o evento durante a reserva, fazem-te um desconto.
+Atenção que, em Dezembro, pode fazer frio em Almada (10°C durante a noite) e o nosso local não tem um isolamento adequado, por isso vem preparado com o teu saco-cama de inverno.
 
-Se estás à procura do mais barato possivel, a [Pousada da Juventude](https://www.pousadasjuventude.pt/pt/pousadas/pousada-de-almada/),  tem boa reputação de boa qualidade/preço em Almada, mas tem em conta que fica relativamente longe do Salão de Festas, não se vai facilmente a pé até lá.
-
-Em alternativa, há outros hotéis ou locais de alojamento local disponíveis através do [booking.com](https://booking.com).
+Se preferires uma cama a sério, há vários hotéis e casas de alojamento local disponíveis através do [booking.com](https://booking.com).

@@ -26,6 +26,7 @@ summary: "4-6 de Dezembro 2026"
 | {{< jtzr-time >}}17:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimónia de Abertura|
 | {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Shaders GLSL (Hugo 'Alien' Lino)" >}}
 ![Bonzomatic](/images/bonzo.webp)
+
 GLSL (OpenGL Shading Language) é uma linguagem de programação usada para escrever código que corre na unidade de processamento gráfico (GPU). Pode depois renderizar gráficos em 2D e 3D, tornando-se a plataforma de aprendizagem perfeita para mostrar rapidamente belas imagens matemáticas em tempo real.
 
 [Hugo 'alien' Lino](https://demozoo.org/sceners/108887/) é um programador português que vive em Viena, Áustria, e faz parte dos grupos Eucalyptus e ScenePT All Stars. Faz demos e integra a equipa organizadora da Inércia desde que se juntou à Demoscene em 2019.
@@ -34,17 +35,23 @@ GLSL (OpenGL Shading Language) é uma linguagem de programação usada para escr
 ![TIC-80](/images/tic80.gif)
 O TIC-80 é um computador de fantasia gratuito e de código aberto para criar, jogar e partilhar pequenos jogos, e também podes fazer demos com ele.
 
+Os editores nativos do TIC-80 são suficientes para demos simples e equipas compostas por uma única pessoa. Para qualquer coisa mais elaborada, são necessárias ferramentas. Assim, em vez de criar uma demo, tenfour desenvolveu uma cadeia de ferramentas de desenvolvimento multiplataforma para a criação de demos em TIC-80.
+
+Neste seminário de uma hora, serão apresentadas novas ferramentas que tornam o desenvolvimento de demos para TIC-80 mais confortável e colaborativo. Conte com uma breve apresentação do TIC-80 e um passo a passo sobre como criar uma demo com uma faixa de música sincronizada.
+
 [Carl 'tenfour' Corcoran](https://demozoo.org/sceners/51926/) é um programador e músico canadiano/belga, membro dos grupos RBBS e Space Logistics.
 {{< /details >}}|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}SHADER ROYALE{{</cl1>}} | [Shader Royale Jam](./participate/#shader-royale) (com DJ Tina Stormcaller)|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Silent Disco (DJ TBC)|
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
+![Bacter](/images/bacter.jpg)
+[Bacter](https://demozoo.org/sceners/3510/) anda pela Demoscene desde os anos 90 e é presença regular na Inércia nos últimos anos. Pela segunda vez, vai trazer-nos batidas suaves e sensuais para desfrutarmos — desta vez, em silêncio! Tragam os vossos auscultadores e um dispositivo com wifi (como um telemóvel) e dancem a noite inteira.
+{{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Dezembro{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Gamedev para Gameboy com GB Studio (Bad_Dad)" >}}
 ![GB Studio](/images/gbstudio.webp)
 O GB Studio é um criador de jogos de arrastar e largar para fazer jogos de Game Boy. Podes gerar ficheiros ROM que correm num emulador, numa página web ou em hardware Game Boy real.
 {{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PRAZO{{</cl1>}} | Prazo para entrega de produções |
-| {{< jtzr-time >}}13:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SEMINÁRIO{{</cl1>}} | Seminário / Apresentação a confirmar |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Mesa redonda sobre o uso da IA na arte digital" >}}
 A IA generativa não é permitida na maioria das competições da maioria dos eventos da Demoscene. Porquê, e devemos abrandar a adoção da IA em geral ou recebê-la de braços abertos? Vantagens, desvantagens, treino de conteúdos e preocupações ambientais serão os tópicos de discussão. Moderado por [Manuel Correia](https://gamesbymanuel.com/bio/).
 {{< /details >}}|
@@ -56,13 +63,12 @@ A IA generativa não é permitida na maioria das competições da maioria dos ev
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | [Competição de Demos (evento principal)](./participate/#competição-de-demos)|
 | {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}LIVE ACT{{</cl1>}} | {{< details summary="VARRHO + Stereokollektor" >}}
 ![VARRHO + Stereokollektor](/images/varrho.webp)
-[VARRHO + Stereokollektor](https://varrho.bandcamp.com/) são um duo de projetos portugueses de drum and bass que têm colaborado nos últimos anos. Vão trazer música do caraças para dançarmos, por isso tragam sapatos confortáveis!
+[VARRHO + Stereokollektor](https://varrho.bandcamp.com/) são um duo de projetos portugueses de drum and bass que têm colaborado nos últimos anos. Vão trazer música excelente para se dançar, por isso tragam sapatos confortáveis!
 {{< /details >}}|
-| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Itzik 'bacter' Shemesh)" >}}
-![Bacter](/images/bacter.jpg)
-[Bacter](https://demozoo.org/sceners/3510/) anda pela Demoscene desde os anos 90 e é presença regular na Inércia nos últimos anos. Pela segunda vez, vai trazer-nos batidas suaves e sensuais para desfrutarmos — desta vez, em silêncio! Tragam os vossos auscultadores e um dispositivo com wifi (como um telemóvel) e dancem a noite inteira.
+| {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="Silent Disco (Peter 'Teo' Hosszú)" >}}
+![Teo](/images/teo.webp)
+É um músico de Amiga com uma longa lista de produções e já participou em grupos como Focus Design e Rebels. Também ajudou a organizar a Evoke durante anos e, este ano, trará ritmos e boas vibrações para a nossa silent disco. Tragam os vossos auscultadores e um dispositivo com Wi-Fi (como um telemóvel) e dancem até cair!
 {{< /details >}}|
-| | | |
 {{< jtzr-anchor-date-colspan datetime="2026-12-06" >}}Domingo · 6 de Dezembro{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Pequeno-almoço com panquecas" >}}
 ![Panquecas](/images/DSC05470.webp)

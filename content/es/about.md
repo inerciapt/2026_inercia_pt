@@ -3,7 +3,7 @@ title: "Sobre"
 summary: "Festival de Artes Digitales y Música en Portugal"
 ---
 >
-El festival de Inércia es organizado por la [Associação Inércia](https://inercia.pt), una asociación sin fines lucrativos dedicada a la promoción de la demoscene. La edición de 2026 será la 19ª del evento organizada por los miembros de la Asociación y la 6ª en realizarse en Almada en particular.
+El festival de Inércia es organizado por la [Associação Inércia](https://inercia.pt), una asociación sin fines lucrativos dedicada a la promoción de la demoscene. La edición de 2026 será la 18ª del evento organizada por los miembros de la Asociación y la 6ª en realizarse en Almada en particular.
 
 La Inércia 2026 tendrá lugar del 4 al 6 de diciembre en el Salão de Festas da Incrível Almadense, una sala centenaria en el corazón de Almada, al otro lado del río de Lisboa.
 
@@ -29,11 +29,7 @@ La Inércia en su raíz es una demoparty pero también invita a otras culturas l
 
 ## Entrada
 
-Entrada gratuita para asociados de la [Associação Inércia](https://inercia.pt) o [SFIA](https://incrivelalmadense.pt) con las cuotas anuales pagadas.
-
-10€ para el resto de interesados (5€ cada día).
-
-Mañana de Domingo entrada gratuita.
+{{< include "entrance_ticket.md" >}}
 
 Debido a las limitaciones de capacidad, tenemos un sistema de pre-inscripción. Más información [en esta página](./visiting/).
 
@@ -41,9 +37,9 @@ Debido a las limitaciones de capacidad, tenemos un sistema de pre-inscripción. 
 
 La organización se reserva el derecho de excluir del evento a cualquier persona que pueda estar causando disturbios o haya demostrado ese tipo de comportamientos en el pasado, al amparo de la ley de organización de eventos privados. Solo lo haremos cuando recibamos quejas de discriminación o doctrinamiento indeseado / discurso retórico sobre cualquier tema discriminatorio (racismo, intolerancia, misoginia, discurso de odio religioso o político, teorías de la conspiración, etc.). No se tolerarán amenazas físicas o verbales / acoso a nuestros voluntarios organizadores o visitantes. Quien sea atrapado infringiendo la ley portuguesa será entregado a las autoridades locales.
 
-<!-- ## Dossier de Prensa
+## Dossier de Prensa
 
-Tenemos un dossier de prensa [disponible para descarga](/Inercia2026PressPack.zip). -->
+Tenemos un dossier de prensa [disponible para descarga](/Inercia2026PressPack.zip).
 
 ## Contacto General
 
