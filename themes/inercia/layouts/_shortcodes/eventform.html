@@ -14,37 +14,27 @@ All fields are mandatory per spec, including the checkbox group
 (days attending), enforced via the inline script since native HTML
 checkboxes can't require "at least one checked" on their own.
 -->
+<script src="https://forminit.com/sdk/v1/forminit.js"></script>
 
-<form
-  action="https://formsubmit.co/1720f59b1808c9c9679d89b69d9d718b"
-  method="POST"
-  id="event-form"
-  class="o-eventform"
->
-  <input type="hidden" name="_subject" value="New event registration" />
-  <input type="hidden" name="_template" value="table" />
-  <input type="hidden" name="_captcha" value="false" />
-  <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
-  <input type="hidden" name="_next" value="{{ i18n "form_thanks" }}">
-
+<form action="https://forminit.com/f/dnu01oyqu20" method="POST" id="event-form" class="o-eventform">
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="email">{{ i18n "form_email_label" }}</label>
-    <input class="o-eventform__input" type="email" id="email" name="Email" placeholder="you@example.com" autocomplete="email" required />
+    <input class="o-eventform__input" type="email" id="email" name="fi-email-email" placeholder="you@example.com" autocomplete="email" required />
   </div>
 
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="name">{{ i18n "form_name_label" }}</label>
-    <input class="o-eventform__input" type="text" id="name" name="Name" autocomplete="name"  />
+    <input class="o-eventform__input" type="text" id="name" name="fi-text-name" autocomplete="name" />
   </div>
 
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="nickname">{{ i18n "form_nickname_label" }}</label>
-    <input class="o-eventform__input" type="text" id="nickname" name="Nickname" autocomplete="nickname"  />
+    <input class="o-eventform__input" type="text" id="nickname" name="fi-text-nickname" autocomplete="nickname" />
   </div>
 
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="nationality">{{ i18n "form_nationality_label" }}</label>
-    <select class="o-eventform__input o-eventform__select" id="nationality" name="Nationality" autocomplete="country-name" >
+    <select class="o-eventform__input o-eventform__select" id="nationality" name="fi-select-nationality" autocomplete="country-name">
       <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
       <optgroup label='{{ i18n "nationality_group_europe" }}'>
         <option value="Portugal">Portugal</option>
@@ -253,8 +243,8 @@ checkboxes can't require "at least one checked" on their own.
     <legend class="o-eventform__legend">{{ i18n "form_public_consent_legend" }}</legend>
     <div class="o-eventform__box">
     <div class="o-eventform__options">
-      <label class="o-eventform__option"><input type="radio" name="Public listing consent" value="Yes"  /> <span>{{ i18n "consent_yes" }}</span></label>
-      <label class="o-eventform__option"><input type="radio" name="Public listing consent" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-public-listing-consent" value="Yes" /> <span>{{ i18n "consent_yes" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-public-listing-consent" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
     </div>
     </div>
   </fieldset>
@@ -262,7 +252,7 @@ checkboxes can't require "at least one checked" on their own.
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="entrance">{{ i18n "form_entrance_label" }}</label>
     <p class="o-eventform__hint">{{ i18n "form_entrance_hint" | safeHTML }}</p>
-    <select class="o-eventform__input o-eventform__select" id="entrance" name="Planned entrance option" >
+    <select class="o-eventform__input o-eventform__select" id="entrance" name="fi-select-planned-entrance-option">
       <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
       <option value="Volunteering as organizer/speaker (free entrance)">{{ i18n "entrance_volunteer" }}</option>
       <option value="Inercia/SFIA associate, quotas paid (12/24 EUR)">{{ i18n "entrance_associate" }}</option>
@@ -276,15 +266,15 @@ checkboxes can't require "at least one checked" on their own.
     <legend class="o-eventform__legend">{{ i18n "form_photo_legend" }}</legend>
     <div class="o-eventform__box">
     <div class="o-eventform__options">
-      <label class="o-eventform__option"><input type="radio" name="Photo consent" value="OK with photos"  /> <span>{{ i18n "photo_ok" }}</span></label>
-      <label class="o-eventform__option"><input type="radio" name="Photo consent" value="No photos badge" /> <span>{{ i18n "photo_no" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-photo-consent" value="OK with photos" /> <span>{{ i18n "photo_ok" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-photo-consent" value="No photos badge" /> <span>{{ i18n "photo_no" }}</span></label>
     </div>
     </div>
   </fieldset>
 
   <div class="o-eventform__field">
     <label class="o-eventform__label" for="tshirt">{{ i18n "form_tshirt_label" }}</label>
-    <select class="o-eventform__input o-eventform__select" id="tshirt" name="T-shirt size" >
+    <select class="o-eventform__input o-eventform__select" id="tshirt" name="fi-select-tshirt-size">
       <option value="" disabled selected>{{ i18n "select_placeholder" }}</option>
       <option value="XS">XS</option>
       <option value="S">S</option>
@@ -301,13 +291,12 @@ checkboxes can't require "at least one checked" on their own.
     <legend class="o-eventform__legend">{{ i18n "form_days_legend" }}</legend>
     <div class="o-eventform__box">
     <div class="o-eventform__options">
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>    
     </div>
     </div>
-    <input type="hidden" id="days-hidden" name="Days" value="" />
     <p class="o-eventform__error" id="days-error" style="display:none">{{ i18n "days_error" }}</p>
   </fieldset>
 
@@ -315,8 +304,20 @@ checkboxes can't require "at least one checked" on their own.
     <legend class="o-eventform__legend">{{ i18n "form_sleep_legend" }}</legend>
     <div class="o-eventform__box">
     <div class="o-eventform__options">
-      <label class="o-eventform__option"><input type="radio" name="Sleeping hall" value="Yes"  /> <span>{{ i18n "consent_yes" }}</span></label>
-      <label class="o-eventform__option"><input type="radio" name="Sleeping hall" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-sleeping-hall" value="Yes" /> <span>{{ i18n "consent_yes" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-sleeping-hall" value="No" /> <span>{{ i18n "consent_no" }}</span></label>
+    </div>
+    </div>
+  </fieldset>
+  
+  <fieldset class="o-eventform__field o-eventform__fieldset">
+    <legend class="o-eventform__legend">{{ i18n "form-communitylunch" }}</legend>
+    <div class="o-eventform__box">
+    <div class="o-eventform__options">
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-community-lunch" value="Yes, full regular meal" /> <span>{{ i18n "lunch_full" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-community-lunch" value="Yes, but vegan" /> <span>{{ i18n "lunch_vegan" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-community-lunch" value="Yes, no group menu, own food" /> <span>{{ i18n "lunch_own" }}</span></label>
+      <label class="o-eventform__option"><input type="radio" name="fi-radio-community-lunch" value="Not this time" /> <span>{{ i18n "lunch_no" }}</span></label>
     </div>
     </div>
   </fieldset>
@@ -327,13 +328,21 @@ checkboxes can't require "at least one checked" on their own.
   <p class="o-eventform__consent">{{ i18n "form_consent" }}</p>
 </form>
 
+<script src="https://forminit.com/sdk/v1/forminit.js"></script>
 <script>
-  document.getElementById('event-form').addEventListener('submit', function (e) {
-    var fieldset = document.getElementById('days-fieldset');
-    var checked = fieldset.querySelectorAll('input.o-eventform__day:checked');
-    var errorEl = document.getElementById('days-error');
+  const forminit = new Forminit();
+  const FORM_ID = "dnu01oyqu20";
+  const THANKS_URL = "{{ i18n "form_thanks" }}";
+  const form = document.getElementById('event-form');
+
+  form.addEventListener('submit', async function (e) {
+    e.preventDefault();
+
+    const fieldset = document.getElementById('days-fieldset');
+    const checked = fieldset.querySelectorAll('input.o-eventform__day:checked');
+    const errorEl = document.getElementById('days-error');
+
     if (checked.length === 0) {
-      e.preventDefault();
       errorEl.style.display = 'block';
       fieldset.classList.add('-invalid');
       fieldset.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -341,7 +350,19 @@ checkboxes can't require "at least one checked" on their own.
     }
     errorEl.style.display = 'none';
     fieldset.classList.remove('-invalid');
-    var values = Array.prototype.map.call(checked, function (c) { return c.value; });
-    document.getElementById('days-hidden').value = values.join(', ');
+
+    const submitButton = form.querySelector('button[type="submit"]');
+    submitButton.disabled = true;
+
+    const formData = new FormData(form);
+    const { data, error } = await forminit.submit(FORM_ID, formData);
+
+    if (error) {
+      alert(error.message);
+      submitButton.disabled = false;
+      return;
+    }
+
+    window.location.href = THANKS_URL;
   });
 </script>

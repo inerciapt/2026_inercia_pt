@@ -14,7 +14,7 @@ other = "Email *"
 other = "https://2026.inercia.pt/en/registercomplete"
 
 [form_consent]
-other = "By clicking this button, you accept typed-in data to go through https://formsubmit.co and end up in an email account of Associação Inércia"
+other = "By clicking this button, you accept typed-in data to go through https://forminit.com and end up in an email account of Associação Inércia"
 
 [form_name_label]
 other = "Name"
@@ -24,6 +24,21 @@ other = "Nickname"
 
 [form_nationality_label]
 other = "Nationality"
+
+[form-communitylunch]
+other = "We'll have a community lunch on Sunday (30eur all included) will you join us?"
+
+[lunch_full]
+other = "Yes, full regular meal"
+
+[lunch_vegan]
+other = "Yes, but I'm a vegan"
+
+[lunch_own]
+other = "Yes, but not want the group menu, just what i eat"
+
+[lunch_no]
+other = "Not this time"
 
 [form_public_consent_legend]
 other = "Can we list your nickname and nationality on our website?"
