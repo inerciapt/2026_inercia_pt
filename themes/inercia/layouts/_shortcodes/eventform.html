@@ -291,10 +291,11 @@ checkboxes can't require "at least one checked" on their own.
     <legend class="o-eventform__legend">{{ i18n "form_days_legend" }}</legend>
     <div class="o-eventform__box">
     <div class="o-eventform__options">
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
-      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" name="fi-checkbox-days" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>    
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Friday, 4 December" /> <span>{{ i18n "day_friday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Saturday, 5 December" /> <span>{{ i18n "day_saturday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Sunday, 6 December" /> <span>{{ i18n "day_sunday" }}</span></label>
+      <label class="o-eventform__option"><input type="checkbox" class="o-eventform__day" value="Not attending in person" /> <span>{{ i18n "day_not_attending" }}</span></label>    
+      <input type="hidden" id="days-combined" name="fi-text-days" value="" />
     </div>
     </div>
     <p class="o-eventform__error" id="days-error" style="display:none">{{ i18n "days_error" }}</p>
@@ -350,6 +351,9 @@ checkboxes can't require "at least one checked" on their own.
     }
     errorEl.style.display = 'none';
     fieldset.classList.remove('-invalid');
+
+    document.getElementById('days-combined').value =
+      Array.from(checked, c => c.value).join(', ');
 
     const submitButton = form.querySelector('button[type="submit"]');
     submitButton.disabled = true;
