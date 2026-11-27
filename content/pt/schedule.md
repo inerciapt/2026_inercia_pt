@@ -16,8 +16,6 @@ summary: "4-6 de Dezembro 2026"
 ## Este programa não é final e está sujeito a alterações.
 -->
 > {{< jtzr-ui >}}**(Horas apresentadas em UTC+0)**{{< /jtzr-ui >}}
-
-
 | | | |
 |:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-04" >}}Sexta · 4 de Dezembro{{< /jtzr-anchor-date-colspan >}}

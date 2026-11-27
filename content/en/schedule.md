@@ -16,7 +16,6 @@ summary: "4-6 December 2026"
 ## This schedule isn't final.
 -->
 > {{< jtzr-ui >}}**(Times are presented in UTC+0)**{{< /jtzr-ui >}}
-
 | | | |
 |:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-04" >}}Friday · 4 December{{< /jtzr-anchor-date-colspan >}}
