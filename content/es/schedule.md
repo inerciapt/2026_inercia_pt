@@ -45,9 +45,11 @@ En este seminario de una hora, te presentaremos nuevas herramientas que hacen qu
 [Bacter](https://demozoo.org/sceners/3510/) lleva en la Demoscene desde los años 90 y es un habitual de Inércia en los últimos años. Por segunda vez, nos deleitará con ritmos suaves y sensuales — ¡esta vez, en silencio! Traed vuestros propios auriculares y un dispositivo con wifi (como un móvil) y bailad toda la noche.
 {{< /details >}}|
 {{< jtzr-anchor-date-colspan datetime="2026-12-05" >}}Sábado · 5 de Diciembre{{< /jtzr-anchor-date-colspan >}}
-| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Desarrollo de juegos para Gameboy con GB Studio (Bad_Dad)" >}}
+| {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Desarrollo de juegos para Gameboy con GB Studio (Philip 'Bad_Dad' Hunt)" >}}
 ![GB Studio](/images/gbstudio.webp)
 GB Studio es un creador de juegos de arrastrar y soltar para hacer juegos de Game Boy. Puedes generar archivos ROM que se ejecuten en un emulador, en una página web o en hardware real de Game Boy.
+
+[Philip](https://phil-bad-dad-games.itch.io/) forma parte del Game Creators Club de la Universidad Lusófona y ha impartido talleres sobre GB Studio, un motor de desarrollo de videojuegos para la consola Game Boy. Asimismo, ha colaborado con artículos para GB Studio Central, un recurso en línea dedicado a dicha herramienta. Sus videojuegos y obras de pixel art interactivo pueden encontrarse en [itch.io](https://itch.io/), plataforma donde utiliza el seudónimo [«Bad Dad»](https://phil-bad-dad-games.itch.io/).
 {{< /details >}}|
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PLAZO{{</cl1>}} | Plazo para la entrega de producciones |
 | {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | {{< details summary="Mesa redonda sobre el uso de la IA en el arte digital" >}}
