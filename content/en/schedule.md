@@ -17,6 +17,7 @@ summary: "4-6 December 2026"
 -->
 > {{< jtzr-ui >}}**(Times are presented in UTC+0)**{{< /jtzr-ui >}}
 | | | |
+|:-:|:-:|:-|
 {{< jtzr-anchor-date-colspan datetime="2026-12-04" >}}Friday · 4 December{{< /jtzr-anchor-date-colspan >}}
 | {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors Open|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt djset" >}}DEMOSHOW{{</cl1>}} | Screening of older Demos| 
