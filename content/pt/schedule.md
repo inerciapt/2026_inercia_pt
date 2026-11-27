@@ -12,9 +12,9 @@ summary: "4-6 de Dezembro 2026"
 #
 
 ---
-
+<!--
 ## Este programa não é final e está sujeito a alterações.
-
+-->
 > {{< jtzr-ui >}}**(Horas apresentadas em UTC+0)**{{< /jtzr-ui >}}
 
 

@@ -12,9 +12,9 @@ summary: "4-6 December 2026"
 #
 
 ---
-
+<!--
 ## This schedule isn't final.
-
+-->
 > {{< jtzr-ui >}}**(Times are presented in UTC+0)**{{< /jtzr-ui >}}
 
 | | | |
